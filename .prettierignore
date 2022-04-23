@@ -1,0 +1,5 @@
+# Use markdownlint-cli2 instead of Prettier
+*.md
+
+# 3rd party code
+.github/styles/
