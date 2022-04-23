@@ -1,0 +1,7 @@
+---
+config:
+  MD013: false # line-length
+ignores:
+  - ./.github/styles/write-good/README.md
+  - ./node_modules/
+  - ./CODE_OF_CONDUCT.md
