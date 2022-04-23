@@ -2,6 +2,11 @@
   "name": "base-template",
   "version": "0.1.0",
   "description": "Base template repository.",
+  "private": true,
+  "engines": {
+    "node": "^16.14.2",
+    "npm": "^8.5.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
