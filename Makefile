@@ -6,6 +6,7 @@ install:
 lint:
 	make lint-npm
 	make lint-sh
+	make lint-text
 
 .PHONY: lint-npm
 lint-npm:
@@ -14,3 +15,7 @@ lint-npm:
 .PHONY: lint-sh
 lint-sh:
 	shellcheck .husky/commit-msg .husky/pre-commit
+
+.PHONY: lint-text
+lint-text:
+	vale README.md CONTRIBUTING.md .github/*.md .github/ISSUE_TEMPLATE .github/styles/Microsoft
