@@ -4,7 +4,7 @@
 
 - Git commit
   - [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
-  - [@commitlint/config-conventional](https://www.npmjs.com/package/@commitlint/config-conventional)
+  - [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#readme)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
 
