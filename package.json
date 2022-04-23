@@ -4,7 +4,8 @@
   "description": "Base template repository.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/haru52/base_template/issues"
   },
-  "homepage": "https://github.com/haru52/base_template#readme"
+  "homepage": "https://github.com/haru52/base_template#readme",
+  "devDependencies": {
+    "husky": "^7.0.0"
+  }
 }
