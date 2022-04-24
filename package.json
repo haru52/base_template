@@ -10,7 +10,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "run-s -c lint:*",
-    "lint:md": "markdownlint-cli2 \"**/*.md\" \".github/**/*.md\"",
+    "lint:md": "[ \"$CI\" = 'true' ] || markdownlint-cli2 \"**/*.md\" \".github/**/*.md\"",
     "lint:prettier": "prettier -c .",
     "format": "run-s -c format:*",
     "format:md": "markdownlint-cli2-fix \"**/*.md\" \".github/**/*.md\"",
