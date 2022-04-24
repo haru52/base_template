@@ -1,4 +1,4 @@
-# Use markdownlint-cli2 instead of Prettier
+# Use markdownlint-cli instead of Prettier
 *.md
 
 # 3rd party code
