@@ -1,3 +1,4 @@
 ---
 "*": prettier -c
 "*.{md,markdown}": markdownlint
+".github/workflows/*.{yml,yaml}": actionlint

@@ -6,6 +6,7 @@ install:
 lint:
 	make lint-npm
 	make lint-sh
+	make lint-action
 	make lint-text
 
 .PHONY: lint-npm
@@ -15,6 +16,9 @@ lint-npm:
 .PHONY: lint-sh
 lint-sh:
 	shellcheck .husky/commit-msg .husky/pre-commit
+
+lint-action:
+	actionlint
 
 .PHONY: lint-text
 lint-text:
