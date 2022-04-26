@@ -10,7 +10,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "run-s -c lint:*",
-    "lint:md": "markdownlint . \".?*/**/*.md\"",
+    "lint:md": "markdownlint . \".?*/**/*.{md,markdown}\"",
     "lint:prettier": "prettier -c .",
     "format": "run-s -c format:*",
     "format:md": "npm run lint:md -- -f",
