@@ -3,5 +3,3 @@
 . "$(dirname "$0")/_/husky.sh"
 
 npx lint-staged
-make lint-sh
-make lint-text
