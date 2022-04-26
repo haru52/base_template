@@ -10,6 +10,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "run-s -c lint:*",
+    "lint:credential": "secretlint \"**/*\"",
     "lint:md": "markdownlint . \".?*/**/*.{md,markdown}\"",
     "lint:prettier": "prettier -c .",
     "format": "run-s -c format:*",
@@ -36,10 +37,12 @@
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
     "@commitlint/prompt-cli": "^16.2.3",
+    "@secretlint/secretlint-rule-preset-recommend": "^5.2.0",
     "husky": "^7.0.0",
     "lint-staged": "^12.4.0",
     "markdownlint-cli": "^0.31.1",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.6.2"
+    "prettier": "^2.6.2",
+    "secretlint": "^5.2.0"
   }
 }
