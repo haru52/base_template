@@ -17,6 +17,7 @@ lint-npm:
 lint-sh:
 	shellcheck .husky/commit-msg .husky/pre-commit
 
+.PHONY: lint-action
 lint-action:
 	actionlint
 
