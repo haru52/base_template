@@ -10,10 +10,10 @@
   "main": "index.js",
   "scripts": {
     "lint": "run-s -c lint:*",
-    "lint:md": "[ \"$CI\" = 'true' ] || markdownlint \"**/*.md\" \".github/**/*.md\"",
+    "lint:md": "markdownlint . \".?*/**/*.md\"",
     "lint:prettier": "prettier -c .",
     "format": "run-s -c format:*",
-    "format:md": "markdownlint -f \"**/*.md\" \".github/**/*.md\"",
+    "format:md": "npm run lint:md -- -f",
     "format:prettier": "prettier -w .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "commit",
