@@ -32,7 +32,7 @@ make lint
 ## Git commit
 
 ```sh
-npm run commit
+npm run commit # Commitizen with commitlint adapter
 # or
-git commit
+git commit # normal Git commit
 ```
