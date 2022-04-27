@@ -1,3 +1,5 @@
+actionlint
 commitlint
 haru
 npm
+Secretlint
