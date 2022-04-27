@@ -1,4 +1,5 @@
 actionlint
+Commitizen
 commitlint
 haru
 npm

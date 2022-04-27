@@ -1,6 +1,7 @@
 # Base Template Repository
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![Main](https://github.com/haru52/base_template/actions/workflows/main.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/main.yml)
 
 ## Overview
@@ -30,7 +31,7 @@ Nothing to do.
 | Category | Tool |
 |-|-|
 | Git hook | [Husky](https://typicode.github.io/husky) |
-| Git commit I/F | [@commitlint/prompt-cli](https://commitlint.js.org/#/guides-use-prompt) |
+| Git commit I/F | [Commitizen](https://commitizen.github.io/cz-cli/) |
 | CI/CD | [GitHub Actions](https://github.com/features/actions) |
 | Lint: Git staged | [lint-staged](https://github.com/okonet/lint-staged#readme) |
 | Lint: Git commit message | [commitlint](https://commitlint.js.org/), [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#readme) |
