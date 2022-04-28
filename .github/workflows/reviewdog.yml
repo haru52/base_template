@@ -22,3 +22,5 @@ jobs:
             *.sh
             commit-msg
             pre-commit
+      - name: actionlint
+        uses: reviewdog/action-actionlint@v1
