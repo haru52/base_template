@@ -18,6 +18,7 @@
     "format:prettier": "prettier -w .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz",
+    "cm": "npm run commit",
     "prepare": "husky install"
   },
   "repository": {
