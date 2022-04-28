@@ -10,12 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: "Lint: text (prose)"
         uses: errata-ai/vale-action@v1
         with:
           files: '["README.md", "CONTRIBUTING.md", ".github/PULL_REQUEST_TEMPLATE.md", ".github/ISSUE_TEMPLATE", ".github/styles/Microsoft"]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: "Lint: commitlint"
+        uses: wagoid/commitlint-github-action@v4
+        with:
+          configFile: .commitlintrc.yml
       - uses: actions/setup-node@v3
         with:
           node-version-file: .node-version
