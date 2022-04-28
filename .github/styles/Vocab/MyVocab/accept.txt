@@ -3,4 +3,5 @@ Commitizen
 commitlint
 haru
 npm
+repo
 Secretlint

@@ -1,12 +1,14 @@
 # Base Template Repository
 
+[![Main](https://github.com/haru52/base_template/actions/workflows/main.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/main.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
-[![Main](https://github.com/haru52/base_template/actions/workflows/main.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/main.yml)
 
 ## Overview
 
-Base template repository.
+<!-- vale write-good.TooWordy = NO -->
+Fully automated template repository. You can use, extend or modify this template repo as you wish! This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community).
+<!-- vale write-good.TooWordy = YES -->
 
 ## Requirements
 
@@ -34,7 +36,7 @@ Nothing to do.
 | Git commit I/F | [Commitizen](https://commitizen.github.io/cz-cli/) |
 | CI/CD | [GitHub Actions](https://github.com/features/actions) |
 | Lint: Git staged | [lint-staged](https://github.com/okonet/lint-staged#readme) |
-| Lint: Git commit message | [commitlint](https://commitlint.js.org/), [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#readme) |
+| Lint: Git commit message | [commitlint](https://commitlint.js.org/) |
 | Lint: credential | [Secretlint](https://github.com/secretlint/secretlint#readme) |
 | Lint: Markdown | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme) |
 | Lint: shell script | [ShellCheck](https://github.com/koalaman/shellcheck#readme) |
