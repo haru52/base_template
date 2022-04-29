@@ -26,7 +26,9 @@ Nothing to do.
 
 1. Open this repository page on GitHub
 2. Click `Use this template` button
-3. Follow the instructions
+3. After the creation of the repo, go `https://github.com/<org>/<repo>/settings/actions`
+4. If `Read and write permissions` option isn't selected in `Workflow permissions` setting, select it and click `Save` button
+5. Now you are ready to write code in a comfortable environment 🎉
 
 ## Description
 
