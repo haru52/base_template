@@ -3,4 +3,4 @@
 *.markdown
 
 # 3rd party code
-.github/styles/
+.github/vale_styles/
