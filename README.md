@@ -13,10 +13,10 @@ Fully automated template repository. You can use, extend or modify this template
 ## Requirements
 
 - GitHub account
-- Node.js and npm (version: [package.json](package.json)`.engines`)
+- Node.js and npm (versions: `engines` values in [package.json](package.json))
 - [ShellCheck](https://github.com/koalaman/shellcheck#readme)
 - [Vale CLI](https://vale.sh/)
-- [actionlint](https://github.com/rhysd/actionlint#readme)
+- [actionlint](https://github.com/rhysd/actionlint#readme) (version: [.tool-versions](.tool-versions))
 
 ## Installation
 
