@@ -34,7 +34,7 @@ make lint
 ```sh
 npm run commit # Commitizen with commitlint adapter
 # or
-npm run cm # alias for `npm run commit`
+npm run cm     # alias for `npm run commit`
 # or
-git commit # normal Git commit
+git commit     # standard Git commit
 ```
