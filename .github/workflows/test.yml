@@ -1,12 +1,12 @@
 ---
-name: Main
+name: Test
 on:
   push:
     branches: main
   pull_request:
 jobs:
-  lint:
-    name: Lint
+  test:
+    name: Test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

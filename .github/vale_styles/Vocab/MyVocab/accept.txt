@@ -1,6 +1,7 @@
 actionlint
 Commitizen
 commitlint
+conventionalcommits
 Dependabot
 gibo
 haru
