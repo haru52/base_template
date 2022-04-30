@@ -1,7 +1,9 @@
 actionlint
 Commitizen
 commitlint
+Dependabot
 haru
 npm
 repo
+reviewdog
 Secretlint
