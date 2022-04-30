@@ -23,4 +23,9 @@ lint-action:
 
 .PHONY: lint-text
 lint-text:
-	vale README.md CONTRIBUTING.md .github/*.md .github/ISSUE_TEMPLATE .github/vale_styles/Microsoft
+	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE .github/vale_styles/Microsoft
+
+.PHONY: update-gi
+update-gi:
+	gibo update
+	gibo dump macOS Linux Windows JetBrains VisualStudioCode Node >| .gitignore

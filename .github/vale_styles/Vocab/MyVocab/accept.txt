@@ -2,6 +2,7 @@ actionlint
 Commitizen
 commitlint
 Dependabot
+gibo
 haru
 npm
 repo
