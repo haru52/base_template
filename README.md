@@ -49,7 +49,7 @@ Nothing to do.
 | CI/CD                         | [GitHub Actions](https://github.com/features/actions)                        |
 | Code review                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                   |
 | Release                       | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)    |
-| Vulnerability management      | [Dependabot](https://docs.github.com/en/code-security/dependabot)            |
+| Dependency management         | [Dependabot](https://docs.github.com/en/code-security/dependabot)            |
 | Lint: Git staged              | [lint-staged](https://github.com/okonet/lint-staged#readme)                  |
 | Lint: Git commit message      | [commitlint](https://commitlint.js.org/)                                     |
 | Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
