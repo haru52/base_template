@@ -17,7 +17,8 @@ jobs:
         with:
           fetch-depth: 0
           # See https://semantic-release.gitbook.io/semantic-release/recipes/ci-configurations/github-actions#pushing-package.json-changes-to-a-master-branch
-          # persist-credentials: false
+          # If the branch protection for this repo's release branch (e.g., main) isn't enabled, delete the next line
+          persist-credentials: false
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -27,7 +28,8 @@ jobs:
         run: npm ci
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # See https://semantic-release.gitbook.io/semantic-release/recipes/ci-configurations/github-actions#pushing-package.json-changes-to-a-master-branch
-          # GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          # If the branch protection for this repo's release branch (e.g., main) isn't enabled, delete the next line and uncomment the above `GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}`
+          GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
         run: npx semantic-release
