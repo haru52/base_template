@@ -28,4 +28,5 @@ lint-text:
 .PHONY: update-gi
 update-gi:
 	gibo update
-	gibo dump macOS Linux Windows JetBrains VisualStudioCode Node >| .gitignore
+	cat .gitignore_custom >| .gitignore
+	gibo dump macOS Linux Windows VisualStudioCode JetBrains Vim Node >> .gitignore
