@@ -6,13 +6,13 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![semantic-release: conventionalcommits](https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
+[![Contributors](images/contributors.png)](https://github.com/haru52/base_template/graphs/contributors)
+
 ## Overview
 
-<!-- vale write-good.TooWordy = NO -->
-This is a fully automated template repository. You can use, extend and modify this template as you wish!
-<!-- vale write-good.TooWordy = YES -->
+This is a fully automated template repository. You can use, extend and customize this template as you wish!
 
-This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community). This template removes your pain to add boilerplate in the repo initialization phase ☺️
+This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community). This template removes your pain to add boilerplates in the repo initialization phase ☺️
 
 ## Requirements
 
@@ -58,6 +58,16 @@ Nothing to do.
 | Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                  |
 | Lint: YAML, etc.              | [Prettier](https://prettier.io/)                                             |
 | Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint#readme)                     |
+
+### Community Standards
+
+[![Community Standards](images/community_standards.png)](https://github.com/haru52/base_template/community)
+
+### Security overview
+
+[![Security overview](images/security_overview.png)](https://github.com/haru52/base_template/security)
+
+Why `Code scannig alerts` feature isn't set up? Because this template has no code to scan! Of course you can set up this feature according to your project.
 
 ## Versioning
 
