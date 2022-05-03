@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "errata-ai.vale-server",
+    "esbenp.prettier-vscode",
+    "timonwong.shellcheck"
+  ]
+}
