@@ -34,7 +34,7 @@ Nothing to do.
 1. Open this repo page on GitHub
 2. Click `Use this template` button
 3. After the creation of the repo, go `https://github.com/<org>/<repo>/settings/actions`
-4. If `Read and write permissions` option isn't selected in `Workflow permissions` setting, select it and click `Save` button
+4. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it. Also, if `Allow GitHub Actions to approve pull requests` isn't checked, check it and click `Save` button
 5. Now you are ready to write code in a comfortable environment 🎉
 
 ## Description
