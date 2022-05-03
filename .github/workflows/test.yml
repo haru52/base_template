@@ -12,6 +12,13 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - name: "Lint: credentials"
+        run: npx secretlint "**/*"
       - name: "Lint: text (prose)"
         uses: errata-ai/vale-action@v1
         with:
@@ -22,11 +29,6 @@ jobs:
         uses: wagoid/commitlint-github-action@v4
         with:
           configFile: .commitlintrc.yml
-      - uses: actions/setup-node@v3
-        with:
-          node-version-file: .node-version
-          cache: npm
-      - run: npm ci
       - name: "Lint: npm"
         run: npm run lint
       - name: "Lint: shell script"
