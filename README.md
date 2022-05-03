@@ -43,13 +43,14 @@ Nothing to do.
 
 | Category                      | Tool                                                                         |
 | ----------------------------- | ---------------------------------------------------------------------------- |
+| IDE/editor configuration      | [EditorConfig](https://editorconfig.org/)                                    |
 | .gitignore management         | [gibo](https://github.com/simonwhitaker/gibo#readme)                         |
 | Git hook                      | [Husky](https://typicode.github.io/husky)                                    |
 | Git commit I/F                | [Commitizen](https://commitizen.github.io/cz-cli/)                           |
 | CI/CD                         | [GitHub Actions](https://github.com/features/actions)                        |
 | Code review                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                   |
 | Release                       | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)    |
-| Dependency management         | [Dependabot](https://docs.github.com/en/code-security/dependabot)            |
+| Dependency update             | [Dependabot](https://docs.github.com/en/code-security/dependabot)            |
 | Lint: Git staged              | [lint-staged](https://github.com/okonet/lint-staged#readme)                  |
 | Lint: Git commit message      | [commitlint](https://commitlint.js.org/)                                     |
 | Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
