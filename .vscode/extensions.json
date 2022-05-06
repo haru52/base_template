@@ -1,7 +1,7 @@
 {
   "recommendations": [
     "DavidAnson.vscode-markdownlint",
-    "editorconfig.editorconfig",
+    "EditorConfig.EditorConfig",
     "errata-ai.vale-server",
     "esbenp.prettier-vscode",
     "timonwong.shellcheck"
