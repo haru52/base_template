@@ -4,6 +4,7 @@
     "EditorConfig.EditorConfig",
     "errata-ai.vale-server",
     "esbenp.prettier-vscode",
+    "RomanPeshkov.vscode-text-tables",
     "timonwong.shellcheck"
   ]
 }
