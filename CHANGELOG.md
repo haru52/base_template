@@ -1,3 +1,10 @@
+### [1.1.1](https://github.com/haru52/base_template/compare/v1.1.0...v1.1.1) (2022-05-08)
+
+
+### Bug Fixes
+
+* **ci:** delete redundant setting of Dependabot auto-approve/merge workflow ([d66dd3f](https://github.com/haru52/base_template/commit/d66dd3ff369c76ce0e9c87b84b48d23bb1c52a77))
+
 ## [1.1.0](https://github.com/haru52/base_template/compare/v1.0.0...v1.1.0) (2022-05-06)
 
 
