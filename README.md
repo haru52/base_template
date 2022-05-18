@@ -81,7 +81,7 @@ Why `Code scannig alerts` feature isn't set up? Because this template has no cod
 ## Languages
 
 - English (this repo. original)
-- [[Draft] 日本語](https://github.com/haru52/base_template_ja)
+- [[Draft] 日本語](https://github.com/haru52/base_template_ja#readme)
 
 ## Contributing
 
