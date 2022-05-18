@@ -21,7 +21,7 @@ This template provides full compliance with [GitHub Community Standards](https:/
 | GitHub account                                              |                                                  |
 | Node.js and npm                                             | `engines` values in [package.json](package.json) |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                          |
-| [Vale CLI](https://vale.sh/)                                | >=2.16.0                                         |
+| [Vale CLI](https://vale.sh/)                                | >=2.17.0                                         |
 | [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                          |
 | [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                 |
 
@@ -33,7 +33,7 @@ Nothing to do.
 
 1. Open this repo page on GitHub
 2. Click `Use this template` button
-3. After the creation of the repo, go `https://github.com/<org>/<repo>/settings/actions`
+3. After the creation of the repo, go to `https://github.com/<org>/<repo>/settings/actions`
 4. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it. Also, if `Allow GitHub Actions to approve pull requests` isn't checked, check it. Then click `Save` button
 5. Now you are ready to write code in a comfortable environment 🎉
 
