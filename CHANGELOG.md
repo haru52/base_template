@@ -1,3 +1,10 @@
+### [1.3.1](https://github.com/haru52/base_template/compare/v1.3.0...v1.3.1) (2022-05-18)
+
+
+### Bug Fixes
+
+* **docs:** update README.md ([b03e433](https://github.com/haru52/base_template/commit/b03e433aa6645ca0b83a6ce56cf3ec7ef427b9c9))
+
 ## [1.3.0](https://github.com/haru52/base_template/compare/v1.2.0...v1.3.0) (2022-05-18)
 
 
