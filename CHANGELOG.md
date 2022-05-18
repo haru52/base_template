@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/haru52/base_template/compare/v1.2.0...v1.3.0) (2022-05-18)
+
+
+### Features
+
+* **docs:** add Languages section to README.md ([39af504](https://github.com/haru52/base_template/commit/39af5049be7f73a3968b5a291290d3aa9c0a6c86))
+
 ## [1.2.0](https://github.com/haru52/base_template/compare/v1.1.1...v1.2.0) (2022-05-18)
 
 
