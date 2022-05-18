@@ -1,3 +1,15 @@
+## [1.2.0](https://github.com/haru52/base_template/compare/v1.1.1...v1.2.0) (2022-05-18)
+
+
+### Features
+
+* **build:** upgrade npm dependencies ([67fc254](https://github.com/haru52/base_template/commit/67fc25459d5b2f5fe262f6319a3e4d4ed8e4cdef))
+* **chore:** add VS Code recommended extensions ([f0f33c1](https://github.com/haru52/base_template/commit/f0f33c1012fce126631b4f6cab93ef253d910e59))
+* **ci:** change to skip commitlint in Test workflow if a commit is created by Dependabot ([2040e85](https://github.com/haru52/base_template/commit/2040e85af4c99dab2cbeacb4dd53c3f197ec9693))
+* **ci:** upgrade errata-ai/vale-action version from 1 to 2 ([92342aa](https://github.com/haru52/base_template/commit/92342aac0142dcc608209153c8a49c567260d8b9))
+* **docs:** update Contributing Guideline ([db3119f](https://github.com/haru52/base_template/commit/db3119f5f3ffc2289d389ace20052fcd713b580a))
+* **docs:** update README.md ([94bd18e](https://github.com/haru52/base_template/commit/94bd18e8b4e34f187fa2d679807cef56e218ff5d))
+
 ### [1.1.1](https://github.com/haru52/base_template/compare/v1.1.0...v1.1.1) (2022-05-08)
 
 
