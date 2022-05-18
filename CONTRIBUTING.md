@@ -13,13 +13,13 @@
 
 1. Fork this repository
 2. Develop and create a Pull Request (PR) according to the above rules
-3. This repository maintainers will review the PR
+3. This repo maintainers will review the PR
 4. The maintainers will merge the PR branch if they approved it, otherwise they will close it without merging
 
 ## Installation
 
 ```sh
-gh repo clone <your org>/base_template # Clone the repository
+gh repo clone <your org>/base_template # Clone the repo
 cd base_template
 make
 ```
