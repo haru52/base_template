@@ -27,8 +27,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "Lint: Git commit message"
         # Skip commitlint if a commit is created by Dependabot.
-        # Because a commit message created by Dependabot often exceeds 100
-        # characters in a row.
+        # Because a line length of a commit message created by Dependabot often exceeds 100
+        # characters.
         if: github.actor != 'dependabot[bot]'
         uses: wagoid/commitlint-github-action@v4
         with:
