@@ -23,3 +23,13 @@ jobs:
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # If you want to automatically request reviews from specific users for the PR when the
+      # dependency updates are neither minor updates nor patch updates,
+      # uncomment the following step.
+      # CAUTION: The following step may fail if this repo visibility is private.
+      # - name: Request reviews for the PR
+      #   if: steps.metadata.outputs.update-type != 'version-update:semver-minor' && steps.metadata.outputs.update-type != 'version-update:semver-patch'
+      #   run: gh pr edit "$PR_URL" --add-reviewer <login>
+      #   env:
+      #     PR_URL: ${{ github.event.pull_request.html_url }}
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
