@@ -1,3 +1,18 @@
+## [1.4.0](https://github.com/haru52/base_template/compare/v1.3.1...v1.4.0) (2022-06-02)
+
+
+### Features
+
+* **build:** bump actionlint from 1.6.12 to 1.6.13 ([d39db7b](https://github.com/haru52/base_template/commit/d39db7b1b249c69b8c02978ea5aa1e6808ed644d))
+* **build:** update dependencies ([eb6d46b](https://github.com/haru52/base_template/commit/eb6d46be75b3f0f0fbfa6f90ce78d7d9babc36dd))
+* **build:** upgrade Node.js and npm versions ([309f430](https://github.com/haru52/base_template/commit/309f4301dd938a18c1306899f7e3df1c5982b6ca))
+* **chore:** update .gitignore ([eaad05a](https://github.com/haru52/base_template/commit/eaad05a45c7637153c2cf873e2f90bc406b60367))
+* **ci:** rename Test job to Lint job ([c0566f0](https://github.com/haru52/base_template/commit/c0566f0901bf2474ce07ac3db3832a2f78d0ddf4))
+* **ci:** surround `on` key in YAML with double quotations to fix yamllint warnings ([73f25de](https://github.com/haru52/base_template/commit/73f25def837d5ad0218439c5b8a6d141761433e6))
+* **ci:** update comment ([a63a00a](https://github.com/haru52/base_template/commit/a63a00a8b881ba1c420d477d4c7d99cc0c634500))
+* **ci:** update comments ([99012f8](https://github.com/haru52/base_template/commit/99012f887fa9e581a1ebda39bc5fcfdcade38cc0))
+* **docs:** add Deadline section to PR template ([31906cc](https://github.com/haru52/base_template/commit/31906cc1129b8ff0335462dd53d12bd113e71f6f))
+
 ### [1.3.1](https://github.com/haru52/base_template/compare/v1.3.0...v1.3.1) (2022-05-18)
 
 
