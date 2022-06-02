@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/haru52/base_template/compare/v1.4.0...v1.5.0) (2022-06-02)
+
+
+### Features
+
+* **ci:** move the position of `Lint: npm` step ([c09abec](https://github.com/haru52/base_template/commit/c09abecc1d8e432164a80b4fedb4b6a8e78ace62))
+
 ## [1.4.0](https://github.com/haru52/base_template/compare/v1.3.1...v1.4.0) (2022-06-02)
 
 
