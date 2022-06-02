@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/haru52/base_template/compare/v1.5.0...v1.6.0) (2022-06-02)
+
+
+### Features
+
+* **ci:** add commented out feature of auto request reviews for Dependabot PR ([fab5470](https://github.com/haru52/base_template/commit/fab54700d2c09006ada87ffd359262910c25ce1a))
+
 ## [1.5.0](https://github.com/haru52/base_template/compare/v1.4.0...v1.5.0) (2022-06-02)
 
 
