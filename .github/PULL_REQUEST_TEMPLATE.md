@@ -9,6 +9,18 @@ e.g.,
 - Fix #2
 -->
 
+## Deadline
+
+<!--
+e.g.,
+
+yyyy-MM-dd
+
+or
+
+See linked issues.
+-->
+
 ## Description
 
 ## References
