@@ -1,6 +1,6 @@
 ---
 name: reviewdog
-on: pull_request
+"on": pull_request
 jobs:
   reviewdog:
     runs-on: ubuntu-latest
