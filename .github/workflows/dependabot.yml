@@ -17,7 +17,8 @@ jobs:
         if: steps.metadata.outputs.update-type == 'version-update:semver-minor' || steps.metadata.outputs.update-type == 'version-update:semver-patch'
         run: |
           gh pr review --approve "$PR_URL"
-          # If both this repo's auto-merge setting and its default branch (e.g., main) protection are enabled, you can uncomment the next line
+          # If both this repo's auto-merge setting and its default branch (e.g., main) protection
+          # are enabled, you can uncomment the next line.
           # gh pr merge --auto --merge "$PR_URL"
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
