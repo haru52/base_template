@@ -2,7 +2,7 @@
 
 ## Linked issues
 
-<!-- 
+<!--
 e.g.,
 
 - Resolve #1
@@ -25,7 +25,7 @@ See linked issues.
 
 ## References
 
-<!-- 
+<!--
 e.g.,
 
 - [Reference A](https://example.com/)
