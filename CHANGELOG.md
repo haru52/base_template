@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/haru52/base_template/compare/v1.6.0...v1.6.1) (2022-06-03)
+
+
+### Bug Fixes
+
+* **build:** update dependencies ([525e6da](https://github.com/haru52/base_template/commit/525e6da01468740b4a70d3e19c84a8f32ba19584))
+* **docs:** remove trailing whitespaces ([30156ad](https://github.com/haru52/base_template/commit/30156ada41a6dbc2c1a4a98fa1bef28a58a24f29))
+* **docs:** update Contributing Guideline ([8ff99e6](https://github.com/haru52/base_template/commit/8ff99e65b41cfc34fc7325f8cee678b768b25857))
+
 ## [1.6.0](https://github.com/haru52/base_template/compare/v1.5.0...v1.6.0) (2022-06-02)
 
 
