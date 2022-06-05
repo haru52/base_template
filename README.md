@@ -16,14 +16,7 @@ This template provides full compliance with [GitHub Community Standards](https:/
 
 ## Requirements
 
-| Tool                                                        | Version                                          |
-| ----------------------------------------------------------- | ------------------------------------------------ |
-| GitHub account                                              |                                                  |
-| Node.js and npm                                             | `engines` values in [package.json](package.json) |
-| [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                          |
-| [Vale CLI](https://vale.sh/)                                | >=2.17.0                                         |
-| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                          |
-| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                 |
+- GitHub account
 
 ## Installation
 
