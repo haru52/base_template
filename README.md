@@ -49,8 +49,9 @@ Nothing to do.
 | Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
 | Lint: Markdown                | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme) |
 | Lint: text (prose)            | [Vale](https://vale.sh/)                                                     |
+| Lint: YAML                    | [yamllint](https://yamllint.readthedocs.io/)                                 |
 | Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                  |
-| Lint: YAML, etc.              | [Prettier](https://prettier.io/)                                             |
+| Lint: JSON, etc.              | [Prettier](https://prettier.io/)                                             |
 | Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint#readme)                     |
 
 ### Community Standards

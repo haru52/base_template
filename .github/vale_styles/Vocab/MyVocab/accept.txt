@@ -10,3 +10,4 @@ npm
 repo
 reviewdog
 Secretlint
+yamllint

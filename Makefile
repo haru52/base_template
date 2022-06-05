@@ -5,6 +5,7 @@ install:
 .PHONY: lint
 lint:
 	make lint-npm
+	make lint-yaml
 	make lint-sh
 	make lint-action
 	make lint-text
@@ -12,6 +13,10 @@ lint:
 .PHONY: lint-npm
 lint-npm:
 	npm run lint
+
+.PHONY: lint-yaml
+lint-yaml:
+	yamllint --strict .
 
 .PHONY: lint-sh
 lint-sh:
