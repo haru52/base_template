@@ -38,6 +38,10 @@ jobs:
         uses: wagoid/commitlint-github-action@v4
         with:
           configFile: .commitlintrc.yml
+      - name: "Lint: YAML"
+        uses: karancode/yamllint-github-action@master
+        with:
+          yamllint_strict: true
       - name: "Lint: shell script"
         uses: ludeeus/action-shellcheck@master
         with:
