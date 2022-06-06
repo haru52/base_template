@@ -1,3 +1,17 @@
+## [1.8.0](https://github.com/haru52/base_template/compare/v1.7.0...v1.8.0) (2022-06-06)
+
+
+### Features
+
+* **chore:** update Makefile ([6be730a](https://github.com/haru52/base_template/commit/6be730a8a2dfb35ac71a6380a0dfb2e14035cb84))
+* **ci:** add yamllint step to CI ([84da315](https://github.com/haru52/base_template/commit/84da3158df863840e62c53cbaf280ff9f9eb3883))
+* **docs:** update documents ([6cd8547](https://github.com/haru52/base_template/commit/6cd85470404346d7118e63bd00a526fc52b18fbf))
+
+
+### Bug Fixes
+
+* **build:** update npm dependencies ([4efd44c](https://github.com/haru52/base_template/commit/4efd44ca37ebaf64a3e677a89b1919b650b54f61))
+
 ## [1.7.0](https://github.com/haru52/base_template/compare/v1.6.1...v1.7.0) (2022-06-06)
 
 
