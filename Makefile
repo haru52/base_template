@@ -5,14 +5,19 @@ install:
 .PHONY: lint
 lint:
 	make lint-npm
+	make lint-text
 	make lint-yaml
 	make lint-sh
 	make lint-action
-	make lint-text
 
 .PHONY: lint-npm
 lint-npm:
 	npm run lint
+
+.PHONY: lint-text
+lint-text:
+	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE \
+	.github/vale_styles/Microsoft
 
 .PHONY: lint-yaml
 lint-yaml:
@@ -25,10 +30,6 @@ lint-sh:
 .PHONY: lint-action
 lint-action:
 	actionlint
-
-.PHONY: lint-text
-lint-text:
-	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE .github/vale_styles/Microsoft
 
 .PHONY: update-gi
 update-gi:
