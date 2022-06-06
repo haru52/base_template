@@ -1,3 +1,16 @@
+## [1.7.0](https://github.com/haru52/base_template/compare/v1.6.1...v1.7.0) (2022-06-06)
+
+
+### Features
+
+* **chore:** add YAML lint to lint-staged settings ([ac9163d](https://github.com/haru52/base_template/commit/ac9163d7d1bdbc7596fcbb1654795a855b813485))
+* **chore:** install yamllint ([3ca98b9](https://github.com/haru52/base_template/commit/3ca98b933dce24beda87655b72dc868cb99a94b8))
+* **chore:** update ignore files ([197d1f0](https://github.com/haru52/base_template/commit/197d1f0e2f10b40ac3653e1389e791ba16704e5e))
+* **chore:** use yamllint instead of Prettier for linting YAML ([3cea16b](https://github.com/haru52/base_template/commit/3cea16bcca55b5b8b87b02f347a2cb55eae5eb80))
+* **ci:** add `Lint: PR title` workflow ([af1d117](https://github.com/haru52/base_template/commit/af1d11740459f6d7eccb4069eae340af89d9f874))
+* **docs:** change positions of the Requirements section ([ff20f3a](https://github.com/haru52/base_template/commit/ff20f3aa959afb77e8b40d641291f1a2fabd6923))
+* **readme:** remove `[Draft]` prefix from Japanese version description ([3966ec5](https://github.com/haru52/base_template/commit/3966ec5563c813e8be9b327907b450fc8951df39))
+
 ## [1.6.1](https://github.com/haru52/base_template/compare/v1.6.0...v1.6.1) (2022-06-03)
 
 
