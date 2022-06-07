@@ -1,3 +1,11 @@
+## [1.9.0](https://github.com/haru52/base_template/compare/v1.8.0...v1.9.0) (2022-06-07)
+
+
+### Features
+
+* **ci:** improve CI ([324589d](https://github.com/haru52/base_template/commit/324589d3680f97eb20461815d2adef7cc89581b7))
+* **docs:** update README.md ([a612bfa](https://github.com/haru52/base_template/commit/a612bfa8a4d1ec80c16f44aaac24af87ba7105e1))
+
 ## [1.8.0](https://github.com/haru52/base_template/compare/v1.7.0...v1.8.0) (2022-06-06)
 
 
