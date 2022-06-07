@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/haru52/base_template/compare/v1.9.0...v1.9.1) (2022-06-07)
+
+
+### Bug Fixes
+
+* **docs:** update README.md ([cb72b9a](https://github.com/haru52/base_template/commit/cb72b9ad33fb7bcde32e0d9b0b06839997853cd9))
+
 ## [1.9.0](https://github.com/haru52/base_template/compare/v1.8.0...v1.9.0) (2022-06-07)
 
 
