@@ -26,9 +26,7 @@ Nothing to do.
 
 1. Open this repo page on GitHub
 2. Click `Use this template` button
-3. After the creation of the repo, go to `https://github.com/<org>/<repo>/settings/actions`
-4. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it. Also, if `Allow GitHub Actions to approve pull requests` isn't checked, check it. Then click `Save` button
-5. Now you are ready to write code in a comfortable environment 🎉
+3. Now you are ready to write code in a comfortable environment 🎉
 
 ## Description
 
@@ -64,6 +62,17 @@ Nothing to do.
 [![Security overview](images/security_overview.png)](https://github.com/haru52/base_template/security)
 
 Why `Code scannig alerts` feature isn't set up? Because this template has no code to scan! Of course you can set up this feature according to your project.
+
+### Troubleshooting
+
+If this solution doesn't resolve your problem, please [open an issue](https://github.com/haru52/base_template/issues/new/choose).
+
+<!-- vale Microsoft.HeadingAcronyms = NO -->
+#### CI fails
+<!-- vale Microsoft.HeadingAcronyms = YES -->
+
+1. Go to `https://github.com/<org>/<repo>/settings/actions`
+2. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it. Also, if `Allow GitHub Actions to approve pull requests` isn't checked, check it. Then click `Save` button
 
 ## Versioning
 
