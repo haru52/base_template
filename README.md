@@ -72,7 +72,9 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 <!-- vale Microsoft.HeadingAcronyms = YES -->
 
 1. Go to `https://github.com/<org>/<repo>/settings/actions`
-2. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it. Also, if `Allow GitHub Actions to approve pull requests` isn't checked, check it. Then click `Save` button
+2. If `Read and write permissions` option in `Workflow permissions` setting isn't selected, select it
+3. If `Allow GitHub Actions to approve pull requests` isn't checked, check it
+4. Click `Save` button
 
 ## Versioning
 
