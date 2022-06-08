@@ -1,5 +1,5 @@
 actionlint
-boilerplates
+boilerplate
 Commitizen
 commitlint
 conventionalcommits
