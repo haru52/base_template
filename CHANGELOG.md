@@ -1,3 +1,10 @@
+## [1.10.0](https://github.com/haru52/base_template/compare/v1.9.1...v1.10.0) (2022-06-08)
+
+
+### Features
+
+* **chore:** replace boilerplates to boilerplate in a Vale accept words list ([015f6b5](https://github.com/haru52/base_template/commit/015f6b595132e880269469fa43b2551f207bedd6))
+
 ## [1.9.1](https://github.com/haru52/base_template/compare/v1.9.0...v1.9.1) (2022-06-07)
 
 
