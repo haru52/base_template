@@ -1,3 +1,10 @@
+## [1.11.0](https://github.com/haru52/base_template/compare/v1.10.0...v1.11.0) (2022-06-10)
+
+
+### Features
+
+* **chore:** prefer descriptive option names to short ones ([93412b7](https://github.com/haru52/base_template/commit/93412b77d3cd9ce4e50eb3982d786229bc62d040))
+
 ## [1.10.0](https://github.com/haru52/base_template/compare/v1.9.1...v1.10.0) (2022-06-08)
 
 
