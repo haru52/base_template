@@ -1,7 +1,7 @@
 ---
 "*":
   - secretlint
-  - prettier -c
+  - prettier --check
 "*.{md,markdown}":
   - markdownlint
   - make lint-text
