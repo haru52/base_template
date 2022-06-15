@@ -1,3 +1,17 @@
+## [1.12.0](https://github.com/haru52/base_template/compare/v1.11.0...v1.12.0) (2022-06-15)
+
+
+### Features
+
+* **build:** update npm depenedencies ([96f7f28](https://github.com/haru52/base_template/commit/96f7f2851b2438789aba23a5ce5b6a54bd9e3cc5))
+* **chore:** add `vale sync` command to `make install` task ([2c1c2bb](https://github.com/haru52/base_template/commit/2c1c2bbcd6e7236d4daa7995cf3bb479b833235f))
+* **chore:** add reject.txt for Vale ([7913183](https://github.com/haru52/base_template/commit/79131837e2ee4189aca8ef9b837dd0b5fe3e167d))
+* **chore:** remove Vale style files from Git repo ([3680cc7](https://github.com/haru52/base_template/commit/3680cc7ec7df18fc2677e586dde262f7f8faecfe))
+* **chore:** rename MyVocab/ to Base/ ([9e41bb4](https://github.com/haru52/base_template/commit/9e41bb42d57cf87a1a315bcf7fd5eb8dc899f137))
+* **chore:** update .gitignore* to ignore Vale style files ([4fe51db](https://github.com/haru52/base_template/commit/4fe51db3179bae7a88af1cf4607dbbf6de91ee5b))
+* **chore:** update .vale.ini ([c8613eb](https://github.com/haru52/base_template/commit/c8613eb385ee07f23a164b9ccaafdbed0db22ddd))
+* **ci:** move Vale lint from Test workflow to reviewdog workflow ([b4175fe](https://github.com/haru52/base_template/commit/b4175fe4550fb21c256d9d7b9950dcb51c6769c9))
+
 ## [1.11.0](https://github.com/haru52/base_template/compare/v1.10.0...v1.11.0) (2022-06-10)
 
 
