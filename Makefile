@@ -1,6 +1,7 @@
 .PHONY: install
 install:
 	npm ci
+	vale sync
 
 .PHONY: lint
 lint:
