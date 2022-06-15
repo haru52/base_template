@@ -28,16 +28,3 @@ jobs:
         uses: reviewdog/action-actionlint@v1
         with:
           reporter: github-pr-review
-      - name: Vale
-        uses: errata-ai/vale-action@v2
-        with:
-          files: >
-            ["README.md", "CONTRIBUTING.md", "SECURITY.md",
-            ".github/PULL_REQUEST_TEMPLATE.md", ".github/ISSUE_TEMPLATE",
-            ".github/vale_styles/Microsoft"]
-          reporter: github-pr-review
-          # Let this CI fail here if Vale throws errors
-          # because it's difficult to run Vale lint in Test workflow
-          fail_on_error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

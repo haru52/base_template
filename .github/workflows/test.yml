@@ -19,6 +19,17 @@ jobs:
       - run: npm ci
       - name: "Lint: credentials"
         run: npx secretlint "**/*"
+      - name: "Lint: text (prose)"
+        uses: errata-ai/vale-action@v2
+        with:
+          files: >
+            ["README.md", "CONTRIBUTING.md", "SECURITY.md",
+            ".github/PULL_REQUEST_TEMPLATE.md", ".github/ISSUE_TEMPLATE",
+            ".github/vale_styles/Microsoft"]
+          reporter: github-check
+          fail_on_error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "Lint: npm"
         run: npm run lint
       - name: "Lint: Git commit message"
