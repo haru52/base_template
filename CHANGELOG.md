@@ -1,3 +1,11 @@
+## [1.13.0](https://github.com/haru52/base_template/compare/v1.12.0...v1.13.0) (2022-06-15)
+
+
+### Features
+
+* **chore:** change Vale's MinAlertLevel from warning (default) to suggestion ([afd4718](https://github.com/haru52/base_template/commit/afd47185defbcb8eb4fc09ce3753cb78a2d81d6e))
+* **ci:** move Vale lint step from reviewdog workflow to Test workflow ([202f2f3](https://github.com/haru52/base_template/commit/202f2f33c0a62f954a7fc468afedf9b5d720e082))
+
 ## [1.12.0](https://github.com/haru52/base_template/compare/v1.11.0...v1.12.0) (2022-06-15)
 
 
