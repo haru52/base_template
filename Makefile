@@ -4,12 +4,7 @@ install:
 	npm ci
 	vale sync
 
-lint:
-	make lint-npm
-	make lint-text
-	make lint-yaml
-	make lint-sh
-	make lint-action
+lint: lint-npm lint-text lint-yaml lint-sh lint-action
 
 lint-npm:
 	npm run lint
