@@ -1,3 +1,10 @@
+## [1.15.0](https://github.com/haru52/base_template/compare/v1.14.0...v1.15.0) (2022-06-16)
+
+
+### Features
+
+* **chore:** update .PHONY descriptions of Makefile ([704cc12](https://github.com/haru52/base_template/commit/704cc122624ca360fc2d3d87490aa4032a55e534))
+
 ## [1.14.0](https://github.com/haru52/base_template/compare/v1.13.0...v1.14.0) (2022-06-16)
 
 
