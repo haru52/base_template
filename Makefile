@@ -1,9 +1,9 @@
-.PHONY: install
+.PHONY: install lint lint-npm lint-text lint-yaml lint-sh lint-action update-gi
+
 install:
 	npm ci
 	vale sync
 
-.PHONY: lint
 lint:
 	make lint-npm
 	make lint-text
@@ -11,27 +11,21 @@ lint:
 	make lint-sh
 	make lint-action
 
-.PHONY: lint-npm
 lint-npm:
 	npm run lint
 
-.PHONY: lint-text
 lint-text:
 	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE
 
-.PHONY: lint-yaml
 lint-yaml:
 	yamllint --strict .
 
-.PHONY: lint-sh
 lint-sh:
 	shellcheck .husky/commit-msg .husky/pre-commit
 
-.PHONY: lint-action
 lint-action:
 	actionlint
 
-.PHONY: update-gi
 update-gi:
 	gibo update
 	cat .gitignore_custom >| .gitignore
