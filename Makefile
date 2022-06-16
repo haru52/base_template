@@ -17,8 +17,7 @@ lint-npm:
 
 .PHONY: lint-text
 lint-text:
-	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE \
-	.github/vale_styles/Microsoft
+	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE
 
 .PHONY: lint-yaml
 lint-yaml:
