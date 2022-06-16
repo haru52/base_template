@@ -1,3 +1,10 @@
+## [1.16.0](https://github.com/haru52/base_template/compare/v1.15.0...v1.16.0) (2022-06-16)
+
+
+### Features
+
+* **chore:** update lint task of Makefile ([f86a19e](https://github.com/haru52/base_template/commit/f86a19e1b2ab1a5819ef68ce0bb10e7634e67685))
+
 ## [1.15.0](https://github.com/haru52/base_template/compare/v1.14.0...v1.15.0) (2022-06-16)
 
 
