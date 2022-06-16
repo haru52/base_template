@@ -1,3 +1,11 @@
+## [1.14.0](https://github.com/haru52/base_template/compare/v1.13.0...v1.14.0) (2022-06-16)
+
+
+### Features
+
+* **build:** update npm dependencies ([104e5e8](https://github.com/haru52/base_template/commit/104e5e89d0c1d9fb0a3e52b814bf19f441e35b01))
+* **chore:** update specifications of vale_styles/ pathes ([fa0cccc](https://github.com/haru52/base_template/commit/fa0cccc5b61fdebe5e167b0549494f6eddb17eb8))
+
 ## [1.13.0](https://github.com/haru52/base_template/compare/v1.12.0...v1.13.0) (2022-06-15)
 
 
