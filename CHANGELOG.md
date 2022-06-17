@@ -1,3 +1,11 @@
+## [1.17.0](https://github.com/haru52/base_template/compare/v1.16.0...v1.17.0) (2022-06-17)
+
+
+### Features
+
+* **build:** update npm dependencies ([5f63e1e](https://github.com/haru52/base_template/commit/5f63e1e2fd7162bcf3d08cf64f0beca3a7a32957))
+* **ci:** change version specifications of GitHub Actions used in this repo ([b078527](https://github.com/haru52/base_template/commit/b078527a189f810fb68e7c4b7ab43f416e7d99a0))
+
 ## [1.16.0](https://github.com/haru52/base_template/compare/v1.15.0...v1.16.0) (2022-06-16)
 
 
