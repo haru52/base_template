@@ -1,4 +1,6 @@
+<!-- vale Microsoft.Headings = NO -->
 # Base Template Repository
+<!-- vale Microsoft.Headings = YES -->
 
 [![Test](https://github.com/haru52/base_template/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/release.yml)
@@ -53,7 +55,9 @@ Nothing to do.
 | Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint#readme)                              |
 | Lint: GitHub PR title         | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |
 
+<!-- vale Microsoft.Headings = NO -->
 ### Community Standards
+<!-- vale Microsoft.Headings = YES -->
 
 [![Community Standards](images/community_standards.png)](https://github.com/haru52/base_template/community)
 
@@ -82,7 +86,9 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 
 ## License
 
+<!-- vale Microsoft.Acronyms = NO -->
 [WTFPL](LICENSE)
+<!-- vale Microsoft.Acronyms = YES -->
 
 ## Languages
 
@@ -93,6 +99,8 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 
 [Contributing Guideline](CONTRIBUTING.md)
 
+<!-- vale Microsoft.Vocab = NO -->
 ## Author
+<!-- vale Microsoft.Vocab = YES -->
 
 [haru](https://haru52.com/)

@@ -1,4 +1,6 @@
+<!-- vale Microsoft.Headings = NO -->
 # Contributing Guideline
+<!-- vale Microsoft.Headings = YES -->
 
 ## Requirements
 
@@ -24,7 +26,7 @@
 ## Development flow
 
 1. Fork this repository
-2. Develop and create a Pull Request (PR) according to the above rules
+2. Develop and create a Pull Request (PR) according to [the preceding rules](#rules)
 3. This repo maintainers will review the PR
 4. The maintainers will merge the PR branch if they approved it, otherwise they will close it without merging
 
