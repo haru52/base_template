@@ -32,8 +32,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # https://semantic-release.gitbook.io/semantic-release/recipes/ci-configurations/github-actions#pushing-package.json-changes-to-a-master-branch
           # If the branch protection for this repo's release branch (e.g., main)
-          # is enabled, delete or comment out
-          # `GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}` above
+          # is enabled, delete or comment out the preceding
+          # `GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}`
           # and uncomment the next line.
           # GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
         run: npx semantic-release
