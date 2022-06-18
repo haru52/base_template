@@ -1,3 +1,12 @@
+## [1.18.0](https://github.com/haru52/base_template/compare/v1.17.0...v1.18.0) (2022-06-18)
+
+
+### Features
+
+* **ci:** change to use “preceding” instead of “above” ([386e9f3](https://github.com/haru52/base_template/commit/386e9f37abb4fadd07986db249f97322de4eca9d))
+* **ci:** remove unnecessary brackets ([933e7a5](https://github.com/haru52/base_template/commit/933e7a5d0f53cea69c14c06a36f89f1d0ffafa15))
+* **docs:** apply some Vale suggestions ([6f79390](https://github.com/haru52/base_template/commit/6f79390b14cdd216522d369c4e648acc270a37d3))
+
 ## [1.17.0](https://github.com/haru52/base_template/compare/v1.16.0...v1.17.0) (2022-06-17)
 
 
