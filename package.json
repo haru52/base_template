@@ -35,21 +35,21 @@
   },
   "homepage": "https://github.com/haru52/base_template#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.0.2",
-    "@commitlint/config-conventional": "^17.0.2",
-    "@commitlint/cz-commitlint": "^17.0.0",
-    "@secretlint/secretlint-rule-preset-recommend": "^5.2.0",
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "@commitlint/cz-commitlint": "^17.0.3",
+    "@secretlint/secretlint-rule-preset-recommend": "^5.2.1",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.2.4",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "husky": "^8.0.1",
-    "lint-staged": "^13.0.2",
+    "lint-staged": "^13.0.3",
     "markdownlint-cli": ">=0.31.1 <1.0.0",
     "npm-check-updates": "^14.1.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.7.1",
-    "secretlint": "^5.2.0",
+    "secretlint": "^5.2.1",
     "semantic-release": "^19.0.3"
   }
 }
