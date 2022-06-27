@@ -1,3 +1,11 @@
+## [1.19.0](https://github.com/haru52/base_template/compare/v1.18.0...v1.19.0) (2022-06-27)
+
+
+### Features
+
+* **build:** update npm dependencies ([c47d447](https://github.com/haru52/base_template/commit/c47d4471eeed1948c1e79ce9e13524cf173953e4))
+* **docs:** update Contributing Guideline ([bdcd765](https://github.com/haru52/base_template/commit/bdcd765e185a4f16a694667e41e8bb219f7116bd))
+
 ## [1.18.0](https://github.com/haru52/base_template/compare/v1.17.0...v1.18.0) (2022-06-18)
 
 
