@@ -21,7 +21,7 @@
 |                        | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#readme) |
 | Git branching strategy | [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)                                                               |
 | Versioning             | [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)                                                                           |
-| GitHub PR title        | Same as commit message rule                                                                                                                |
+| GitHub PR title        | Same as the commit message rule                                                                                                            |
 
 ## Development flow
 
