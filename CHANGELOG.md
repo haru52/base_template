@@ -1,3 +1,20 @@
+## [2.0.0](https://github.com/haru52/base_template/compare/v1.19.0...v2.0.0) (2022-07-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* delete eg2.vscode-npm-script VS Code extension
+
+### Features
+
+* **build:** update actionlint version from 1.6.13 to 1.6.15 ([10f878a](https://github.com/haru52/base_template/commit/10f878af63c56efc50b97049f571a3ce98fe0560))
+* **build:** update Node.js version from 16.15.1 to 16.16.0 ([f875ebb](https://github.com/haru52/base_template/commit/f875ebb3e511f521f27e26a9a87be1159f121afc))
+
+
+### Build System
+
+* delete eg2.vscode-npm-script VS Code extension ([c1d5ef7](https://github.com/haru52/base_template/commit/c1d5ef79aed2295cedf6dc5d1dc7f1a8a706c15b))
+
 ## [1.19.0](https://github.com/haru52/base_template/compare/v1.18.0...v1.19.0) (2022-06-27)
 
 
