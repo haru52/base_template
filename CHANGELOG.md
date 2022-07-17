@@ -1,3 +1,10 @@
+## [2.2.0](https://github.com/haru52/base_template/compare/v2.1.0...v2.2.0) (2022-07-17)
+
+
+### Features
+
+* **docs:** update Contributing Guideline ([54949a5](https://github.com/haru52/base_template/commit/54949a518b49160ef4f9fc160fa1ecb75750787d))
+
 ## [2.1.0](https://github.com/haru52/base_template/compare/v2.0.0...v2.1.0) (2022-07-17)
 
 
