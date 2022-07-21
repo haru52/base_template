@@ -1,3 +1,15 @@
+## [3.0.0](https://github.com/haru52/base_template/compare/v2.2.0...v3.0.0) (2022-07-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** rename `make install` to `make dev-install`
+
+### Features
+
+* **chore:** rename `make install` to `make dev-install` ([c0bcd91](https://github.com/haru52/base_template/commit/c0bcd91e1696302a2dd6727dd3d043bcd93739d7))
+* **docs:** update documents ([8a81603](https://github.com/haru52/base_template/commit/8a81603cd7f8ca2fead0473b48708980847d894b))
+
 ## [2.2.0](https://github.com/haru52/base_template/compare/v2.1.0...v2.2.0) (2022-07-17)
 
 
