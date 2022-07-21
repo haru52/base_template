@@ -88,7 +88,7 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 
 ### Applying the templates to an existing repo
 
-Please use [Base Template CLI][base-template-cli]
+Please use [Base Template CLI][base-template-cli].
 
 ## Versioning
 
