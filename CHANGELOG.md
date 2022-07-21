@@ -1,3 +1,10 @@
+## [3.2.0](https://github.com/haru52/base_template/compare/v3.1.0...v3.2.0) (2022-07-21)
+
+
+### Features
+
+* **docs:** update README.md ([a6851d4](https://github.com/haru52/base_template/commit/a6851d4a87076a99baf2068e34266622d8a48fc4))
+
 ## [3.1.0](https://github.com/haru52/base_template/compare/v3.0.0...v3.1.0) (2022-07-21)
 
 
