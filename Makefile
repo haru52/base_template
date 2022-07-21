@@ -1,6 +1,6 @@
-.PHONY: install lint lint-npm lint-text lint-yaml lint-sh lint-action update-gi
+.PHONY: dev-install lint lint-npm lint-text lint-yaml lint-sh lint-action update-gi
 
-install:
+dev-install:
 	npm ci
 	vale sync
 
