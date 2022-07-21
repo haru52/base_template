@@ -1,6 +1,4 @@
-<!-- vale Microsoft.Headings = NO -->
 # Contributing Guideline
-<!-- vale Microsoft.Headings = YES -->
 
 ## Requirements
 
@@ -25,7 +23,7 @@
 
 ## Development flow
 
-1. Fork this repository
+1. Fork this repo
 2. Develop and create a Pull Request (PR) according to [the preceding rules](#rules)
 3. This repo maintainers will review the PR
 4. The maintainers will merge the PR branch if they approved it, otherwise they will close it without merging
@@ -35,7 +33,7 @@
 ```sh
 gh repo clone <your org>/base_template # Clone the repo
 cd base_template
-make
+make dev-install
 ```
 
 ## Lint
@@ -49,7 +47,7 @@ make lint
 ```sh
 npm run commit # Commitizen with commitlint adapter
 # or
-npm run cm     # alias for `npm run commit`
+npm run cm     # Alias for `npm run commit`
 # or
-git commit     # standard Git commit
+git commit     # Standard Git commit
 ```

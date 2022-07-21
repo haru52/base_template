@@ -1,6 +1,4 @@
-<!-- vale Microsoft.Headings = NO -->
 # Base Template Repository
-<!-- vale Microsoft.Headings = YES -->
 
 [![Test](https://github.com/haru52/base_template/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/release.yml)
@@ -22,13 +20,21 @@ This template provides full compliance with [GitHub Community Standards](https:/
 
 ## Installation
 
-Nothing to do.
+Nothing to do!
 
 ## Usage
 
 1. Open this repo page on GitHub
 2. Click `Use this template` button
 3. Now you are ready to write code in a comfortable environment 🎉
+
+## Update
+
+To apply the latest Base Template files to a repo generated from this template, please use [Base Template CLI][base-template-cli].
+
+## Uninstall
+
+Nothing.
 
 ## Description
 
@@ -80,15 +86,17 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 3. If `Allow GitHub Actions to approve pull requests` isn't checked, check it
 4. Click `Save` button
 
+### Applying the templates to an existing repo
+
+Please use [Base Template CLI][base-template-cli]
+
 ## Versioning
 
 [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
 
 ## License
 
-<!-- vale Microsoft.Acronyms = NO -->
 [WTFPL](LICENSE)
-<!-- vale Microsoft.Acronyms = YES -->
 
 ## Languages
 
@@ -104,3 +112,5 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 <!-- vale Microsoft.Vocab = YES -->
 
 [haru](https://haru52.com/)
+
+[base-template-cli]: https://github.com/haru52/base_template_cli#readme

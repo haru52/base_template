@@ -1,7 +1,9 @@
 actionlint
+Base Template Repository
 boilerplate
 Commitizen
 commitlint
+Contributing Guideline
 conventionalcommits
 Dependabot
 gibo
@@ -10,4 +12,5 @@ npm
 repo
 reviewdog
 Secretlint
+WTFPL
 yamllint
