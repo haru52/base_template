@@ -1,3 +1,10 @@
+## [3.1.0](https://github.com/haru52/base_template/compare/v3.0.0...v3.1.0) (2022-07-21)
+
+
+### Features
+
+* **build:** upgrade npm dependencies ([ba48b45](https://github.com/haru52/base_template/commit/ba48b45c74b6921c53eef16f080ade9e993975f1))
+
 ## [3.0.0](https://github.com/haru52/base_template/compare/v2.2.0...v3.0.0) (2022-07-21)
 
 
