@@ -1,3 +1,12 @@
+## [3.3.0](https://github.com/haru52/base_template/compare/v3.2.0...v3.3.0) (2022-08-02)
+
+
+### Features
+
+* **build:** update npm dependencies ([176a612](https://github.com/haru52/base_template/commit/176a6123acd8251d5a5cbb203305ca63df3fb186))
+* **docs:** rename the heading from Versioning to Versioning policy in README.md ([7e053c5](https://github.com/haru52/base_template/commit/7e053c531d9ad1aa7d6ea17481dd59824313a9e0))
+* **docs:** update Requirements table of Contributing Guideline ([3987f4c](https://github.com/haru52/base_template/commit/3987f4cba0a1c417a0ba3c87bb9d5155d39beed0))
+
 ## [3.2.0](https://github.com/haru52/base_template/compare/v3.1.0...v3.2.0) (2022-07-21)
 
 
