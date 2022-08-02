@@ -90,7 +90,7 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 
 Please use [Base Template CLI][base-template-cli].
 
-## Versioning
+## Versioning policy
 
 [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
 
