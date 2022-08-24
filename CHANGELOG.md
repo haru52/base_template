@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/haru52/base_template/compare/v4.0.0...v4.0.1) (2022-08-24)
+
+
+### Bug Fixes
+
+* fix a bug of .lintstagedrc.yml ([0614568](https://github.com/haru52/base_template/commit/0614568b94c83960cd3ceb698630f24928195bcf))
+
 ## [4.0.0](https://github.com/haru52/base_template/compare/v3.3.0...v4.0.0) (2022-08-03)
 
 
