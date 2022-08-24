@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/haru52/base_template/compare/v4.0.1...v5.0.0) (2022-08-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Dependabot:** change Dependabot interval from daily to weekly
+
+### Miscellaneous Chores
+
+* **Dependabot:** change Dependabot interval from daily to weekly ([24eef0f](https://github.com/haru52/base_template/commit/24eef0f6994d652fd16f42089b43229d4e18a967))
+
 ## [4.0.1](https://github.com/haru52/base_template/compare/v4.0.0...v4.0.1) (2022-08-24)
 
 
