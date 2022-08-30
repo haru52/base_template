@@ -71,7 +71,7 @@ Nothing.
 
 [![Security overview](images/security_overview.png)](https://github.com/haru52/base_template/security)
 
-Why `Code scannig alerts` feature isn't set up? Because this template has no code to scan! Of course you can set up this feature according to your project.
+Why `Code scannig alerts` feature isn't enabled? Because this template has no code to scan! Of course you can set up this feature according to your project.
 
 ### Troubleshooting
 
