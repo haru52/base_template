@@ -28,7 +28,10 @@
   "keywords": [
     "template"
   ],
-  "author": "haru",
+  "author": {
+    "name": "haru",
+    "url": "https://haru52.com/"
+  },
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/haru52/base_template/issues"
