@@ -54,7 +54,7 @@ jobs:
           ./actionlint -color
         # yamllint enable rule:line-length
         shell: bash
-# yamllint disable rule:comments-indentation rule:line-length
+# yamllint disable rule:comments-indentation
   # If this is an npm project and package.json has build or test script,
   # uncomment the following steps.
   # build:
@@ -79,4 +79,4 @@ jobs:
   #         cache: npm
   #     - run: npm ci
   #     - run: npm test
-# yamllint enable rule:comments-indentation rule:line-length
+# yamllint enable rule:comments-indentation
