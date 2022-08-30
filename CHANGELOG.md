@@ -1,3 +1,10 @@
+## [5.3.0](https://github.com/haru52/base_template/compare/v5.2.0...v5.3.0) (2022-08-30)
+
+
+### Features
+
+* **ci:** delete unnecessary comments ([72e74af](https://github.com/haru52/base_template/commit/72e74afeaa8af5071ac4f2b056a90a6167df1508))
+
 ## [5.2.0](https://github.com/haru52/base_template/compare/v5.1.0...v5.2.0) (2022-08-30)
 
 
