@@ -1,3 +1,21 @@
+## [5.1.0](https://github.com/haru52/base_template/compare/v5.0.0...v5.1.0) (2022-08-30)
+
+
+### Features
+
+* **build:** upgrade actionlint to v1.6.17 ([0e650ee](https://github.com/haru52/base_template/commit/0e650ee9d2845afa73fc9e6ea55d2403b5664b61))
+* **build:** upgrade npm dependencies ([b72ee81](https://github.com/haru52/base_template/commit/b72ee816dd36290c1e8efbf670c59d90e76fb578))
+* **chore:** change engines value of package.json ([0f95059](https://github.com/haru52/base_template/commit/0f95059ff4be439b1fede9cdf994742c4357e83c))
+* **ci:** add Build and Test steps which are commented out to Test workflow ([b59b768](https://github.com/haru52/base_template/commit/b59b768222fa95546ea0cdd2ca19b5be8eaf1af5))
+* **docs:** update README.md ([b822dbf](https://github.com/haru52/base_template/commit/b822dbf86bc6faca3f395932a88aba0c00e3a5f9))
+* **docs:** update Requirements table of Contributing Guideline ([f4a748f](https://github.com/haru52/base_template/commit/f4a748f40e326e11d4c832fe6dd6bd6a81391647))
+* **docs:** update security_overview.png ([59036ae](https://github.com/haru52/base_template/commit/59036ae5ad115c53a2eb15b2083acd886dcc458e))
+
+
+### Bug Fixes
+
+* **chore:** fix .lintstagedrc.yml ([2898924](https://github.com/haru52/base_template/commit/28989243e3d84642522059e6208e875d5c7c245a))
+
 ## [5.0.0](https://github.com/haru52/base_template/compare/v4.0.1...v5.0.0) (2022-08-24)
 
 
