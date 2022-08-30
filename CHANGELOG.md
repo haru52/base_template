@@ -1,3 +1,10 @@
+## [5.2.0](https://github.com/haru52/base_template/compare/v5.1.0...v5.2.0) (2022-08-30)
+
+
+### Features
+
+* **chore:** update author value of package.json ([b85b39a](https://github.com/haru52/base_template/commit/b85b39ad2005a430380dcbe36ef0911bae5b5602))
+
 ## [5.1.0](https://github.com/haru52/base_template/compare/v5.0.0...v5.1.0) (2022-08-30)
 
 
