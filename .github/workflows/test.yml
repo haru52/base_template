@@ -54,3 +54,29 @@ jobs:
           ./actionlint -color
         # yamllint enable rule:line-length
         shell: bash
+# yamllint disable rule:comments-indentation rule:line-length
+  # If this is an npm project and package.json has build or test script,
+  # uncomment the following steps.
+  # build:
+  #   name: Build
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #     - uses: actions/setup-node@v3
+  #       with:
+  #         node-version-file: .node-version
+  #         cache: npm
+  #     - run: npm ci
+  #     - run: npm run build
+  # test:
+  #   name: Test
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #     - uses: actions/setup-node@v3
+  #       with:
+  #         node-version-file: .node-version
+  #         cache: npm
+  #     - run: npm ci
+  #     - run: npm test
+# yamllint enable rule:comments-indentation rule:line-length
