@@ -6,5 +6,6 @@
   - markdownlint
   - make lint-text
 "*.{yml,yaml}": make lint-yml
-"{*.sh,.husky/*}": shellcheck
+"*.sh": shellcheck
+".husky/*": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint
