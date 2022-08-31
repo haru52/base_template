@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "arahata.linter-actionlint",
     "christian-kohler.npm-intellisense",
     "DavidAnson.vscode-markdownlint",
     "EditorConfig.EditorConfig",
