@@ -1,3 +1,10 @@
+## [5.4.0](https://github.com/haru52/base_template/compare/v5.3.0...v5.4.0) (2022-09-01)
+
+
+### Features
+
+* **chore:** add arahata.linter-actionlint as a recommended VS Code extension ([2759e9c](https://github.com/haru52/base_template/commit/2759e9c7bc91c940383bb7e6e5dc79e59cd0ea0d))
+
 ## [5.3.0](https://github.com/haru52/base_template/compare/v5.2.0...v5.3.0) (2022-08-30)
 
 
