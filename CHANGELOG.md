@@ -1,3 +1,10 @@
+## [5.5.0](https://github.com/haru52/base_template/compare/v5.4.0...v5.5.0) (2022-09-01)
+
+
+### Features
+
+* **chore:** change (revert) engines values of package.json ([b7f6767](https://github.com/haru52/base_template/commit/b7f6767c171ff96d9d8f8632c9f63be0878fb3a7))
+
 ## [5.4.0](https://github.com/haru52/base_template/compare/v5.3.0...v5.4.0) (2022-09-01)
 
 
