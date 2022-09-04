@@ -27,7 +27,7 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
-      # If this is an npm package project which requires the build before
+      # If this is an npm package project which requires building before
       # publishing, uncomment the next step.
       # - name: Build
       #   run: npm run build --if-present
