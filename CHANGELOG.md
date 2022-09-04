@@ -1,3 +1,11 @@
+## [5.6.0](https://github.com/haru52/base_template/compare/v5.5.0...v5.6.0) (2022-09-04)
+
+
+### Features
+
+* **ci:** update Release workflow ([ef21d4c](https://github.com/haru52/base_template/commit/ef21d4cca0e0cc0bf8784aae8a6b5617043f5928))
+* **ci:** update Test workflow ([73f9ff8](https://github.com/haru52/base_template/commit/73f9ff80de8c5aa216d8905b13d29a1633431b98))
+
 ## [5.5.0](https://github.com/haru52/base_template/compare/v5.4.0...v5.5.0) (2022-09-01)
 
 
