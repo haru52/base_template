@@ -1,3 +1,10 @@
+## [5.7.0](https://github.com/haru52/base_template/compare/v5.6.0...v5.7.0) (2022-09-04)
+
+
+### Features
+
+* **ci:** update the comment ([4609e01](https://github.com/haru52/base_template/commit/4609e01091db72dffd041aa0e42aa1e9276796fc))
+
 ## [5.6.0](https://github.com/haru52/base_template/compare/v5.5.0...v5.6.0) (2022-09-04)
 
 
