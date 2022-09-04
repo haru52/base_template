@@ -1,3 +1,10 @@
+## [5.9.0](https://github.com/haru52/base_template/compare/v5.8.0...v5.9.0) (2022-09-04)
+
+
+### Features
+
+* **ci:** update Test workflow ([a439555](https://github.com/haru52/base_template/commit/a43955500cc3a29516fabdcd8757c6c3c74c9faf))
+
 ## [5.8.0](https://github.com/haru52/base_template/compare/v5.7.0...v5.8.0) (2022-09-04)
 
 
