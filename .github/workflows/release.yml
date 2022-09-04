@@ -30,7 +30,7 @@ jobs:
       # If this is an npm package project which requires building before
       # publishing, uncomment the next step.
       # - name: Build
-      #   run: npm run build --if-present
+      #   run: npm run build
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
