@@ -67,7 +67,7 @@ jobs:
   #         node-version-file: .node-version
   #         cache: npm
   #     - run: npm ci
-  #     - run: npm run build --if-present
+  #     - run: npm run build
   # test:
   #   name: Test
   #   runs-on: ubuntu-latest
