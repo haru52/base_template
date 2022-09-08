@@ -1,3 +1,14 @@
+## [6.0.0](https://github.com/haru52/base_template/compare/v5.10.0...v6.0.0) (2022-09-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* delete build step from Release workflow
+
+### Continuous Integration
+
+* delete build step from Release workflow ([8eafd8a](https://github.com/haru52/base_template/commit/8eafd8a87d89bcef18cffa53ecf4110dc90b4175))
+
 ## [5.10.0](https://github.com/haru52/base_template/compare/v5.9.0...v5.10.0) (2022-09-04)
 
 
