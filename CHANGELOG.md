@@ -1,3 +1,10 @@
+## [6.1.0](https://github.com/haru52/base_template/compare/v6.0.0...v6.1.0) (2022-09-10)
+
+
+### Features
+
+* **chore:** change the plugin order of semantic-release ([827f35d](https://github.com/haru52/base_template/commit/827f35d32ccb910ef5344fa854f90ef756b094e2))
+
 ## [6.0.0](https://github.com/haru52/base_template/compare/v5.10.0...v6.0.0) (2022-09-08)
 
 
