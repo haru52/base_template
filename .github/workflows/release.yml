@@ -36,6 +36,7 @@ jobs:
           # `GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}`
           # and uncomment the next line.
           # GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+
           # If this is an npm package project, uncomment the next line.
           # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
