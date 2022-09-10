@@ -1,3 +1,10 @@
+## [6.2.0](https://github.com/haru52/base_template/compare/v6.1.0...v6.2.0) (2022-09-10)
+
+
+### Features
+
+* **ci:** add a blank line for readability ([d0b402e](https://github.com/haru52/base_template/commit/d0b402e00392adc3624194e663ba8cfa77d89073))
+
 ## [6.1.0](https://github.com/haru52/base_template/compare/v6.0.0...v6.1.0) (2022-09-10)
 
 
