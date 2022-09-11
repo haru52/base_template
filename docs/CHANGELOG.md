@@ -1,3 +1,10 @@
+## [7.1.0](https://github.com/haru52/base_template/compare/v7.0.0...v7.1.0) (2022-09-11)
+
+
+### Features
+
+* **docs:** update documentation ([790d04c](https://github.com/haru52/base_template/commit/790d04cf2f82d2f54525d0755ae197e60cfa5ef4))
+
 ## [7.0.0](https://github.com/haru52/base_template/compare/v6.2.0...v7.0.0) (2022-09-11)
 
 
