@@ -10,7 +10,7 @@ lint-npm:
 	npm run lint
 
 lint-text:
-	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE
+	vale README.md docs/CONTRIBUTING.md docs/SECURITY.md .github/*.md .github/ISSUE_TEMPLATE
 
 lint-yml:
 	yamllint --strict .
