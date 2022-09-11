@@ -2,7 +2,7 @@
 
 [![Test](https://github.com/haru52/base_template/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/release.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://haru52.com/base_template/CODE_OF_CONDUCT.html)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://haru52.github.io/base_template/CODE_OF_CONDUCT.html)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![semantic-release: conventionalcommits](https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
@@ -12,7 +12,7 @@
 
 This is a fully automated template repository. You can use, extend and customize this template as you wish!
 
-This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community). This template removes your pain to add boilerplates in the repo initialization phase ☺️
+This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community) and removes your pain to add boilerplates in the repo initialization phase ☺️
 
 ## Requirements
 
@@ -105,11 +105,11 @@ Please use [Base Template CLI][base-template-cli].
 
 ## Contributing
 
-[Contributing Guideline](https://haru52.com/base_template/CONTRIBUTING.html)
+[Contributing Guideline](https://haru52.github.io/base_template/CONTRIBUTING.html)
 
 ## Documentation
 
-[Documentation | base_template](https://haru52.com/base_template/)
+[Documentation | base_template](https://haru52.github.io/base_template/)
 
 <!-- vale Microsoft.Vocab = NO -->
 ## Author
