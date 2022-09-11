@@ -2,7 +2,7 @@
 
 [![Test](https://github.com/haru52/base_template/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/release.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](docs/CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://haru52.com/base_template/CODE_OF_CONDUCT.html)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![semantic-release: conventionalcommits](https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
@@ -105,7 +105,11 @@ Please use [Base Template CLI][base-template-cli].
 
 ## Contributing
 
-[Contributing Guideline](docs/CONTRIBUTING.md)
+[Contributing Guideline](https://haru52.com/base_template/CONTRIBUTING.html)
+
+## Documentation
+
+[Documentation | base_template](https://haru52.com/base_template/)
 
 <!-- vale Microsoft.Vocab = NO -->
 ## Author

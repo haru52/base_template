@@ -1,6 +1,6 @@
 actionlint
 Base Template Repository
-Base Template Repository Documentation
+base_template
 boilerplate
 Commitizen
 commitlint
