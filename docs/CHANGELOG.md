@@ -1,3 +1,10 @@
+## [7.2.0](https://github.com/haru52/base_template/compare/v7.1.0...v7.2.0) (2022-09-11)
+
+
+### Features
+
+* **docs:** update README and Contributing Guideline ([bd642de](https://github.com/haru52/base_template/commit/bd642de00c7b95920bf09d7896dd653cbf4d87e2))
+
 ## [7.1.0](https://github.com/haru52/base_template/compare/v7.0.0...v7.1.0) (2022-09-11)
 
 
