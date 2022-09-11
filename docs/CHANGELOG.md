@@ -1,3 +1,14 @@
+## [7.0.0](https://github.com/haru52/base_template/compare/v6.2.0...v7.0.0) (2022-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* move the documentation files to docs/ dir
+
+### Documentation
+
+* move the documentation files to docs/ dir ([2dd00bb](https://github.com/haru52/base_template/commit/2dd00bba8c1c515f946b638ef53d167298972178))
+
 ## [6.2.0](https://github.com/haru52/base_template/compare/v6.1.0...v6.2.0) (2022-09-10)
 
 
