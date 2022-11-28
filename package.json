@@ -47,7 +47,7 @@
     "commitizen": "^4.2.5",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "husky": "^8.0.2",
-    "lint-staged": "^13.0.3",
+    "lint-staged": "^13.0.4",
     "markdownlint-cli": ">=0.32.2 <1.0.0",
     "npm-check-updates": "^16.3.25",
     "npm-run-all": "^4.1.5",
