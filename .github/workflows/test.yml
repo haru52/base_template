@@ -56,7 +56,7 @@ jobs:
         shell: bash
 # yamllint disable rule:comments-indentation
   # If this is an npm project and package.json has build or test script,
-  # uncomment the following steps.
+  # uncomment the following jobs.
   # build:
   #   name: Build
   #   runs-on: ubuntu-latest
