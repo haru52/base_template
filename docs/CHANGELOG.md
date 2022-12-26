@@ -1,3 +1,10 @@
+## [7.3.0](https://github.com/haru52/base_template/compare/v7.2.0...v7.3.0) (2022-12-26)
+
+
+### Features
+
+* **ci:** update comment ([6359428](https://github.com/haru52/base_template/commit/63594286c68d8bd905d1375987dce03f91f56747))
+
 ## [7.2.0](https://github.com/haru52/base_template/compare/v7.1.0...v7.2.0) (2022-09-11)
 
 
