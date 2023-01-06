@@ -1,3 +1,13 @@
+## [7.4.0](https://github.com/haru52/base_template/compare/v7.3.0...v7.4.0) (2023-01-06)
+
+
+### Features
+
+* **build:** upgrade Node.js and npm versions ([5303742](https://github.com/haru52/base_template/commit/5303742d9645dfad7265af48819a555d54d05b66))
+* **build:** upgrade npm dependencies ([e04d9ff](https://github.com/haru52/base_template/commit/e04d9ffbf645040d14459b569f7b965e861d60f2))
+* **chore:** upgrade actionlint version ([8861454](https://github.com/haru52/base_template/commit/8861454b31748f84826f1f103965590f511d8950))
+* **docs:** update Requirements section in Contributing Guideline ([3280aae](https://github.com/haru52/base_template/commit/3280aaedd1757dba02cbbf31eda8353bc2b52197))
+
 ## [7.3.0](https://github.com/haru52/base_template/compare/v7.2.0...v7.3.0) (2022-12-26)
 
 
