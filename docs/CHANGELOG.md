@@ -1,3 +1,11 @@
+## [7.5.0](https://github.com/haru52/base_template/compare/v7.4.0...v7.5.0) (2023-01-13)
+
+
+### Features
+
+* **build:** upgrade npm dependencies ([8e3bf30](https://github.com/haru52/base_template/commit/8e3bf304b35c63ff873d03516c7be6380522864d))
+* improve .lintstagedrc.yml ([d591503](https://github.com/haru52/base_template/commit/d59150318d1381e9b281818df86a1a9c483b325d))
+
 ## [7.4.0](https://github.com/haru52/base_template/compare/v7.3.0...v7.4.0) (2023-01-06)
 
 
