@@ -7,8 +7,8 @@
 | Node.js                                                     | [.node-version](https://github.com/haru52/base_template/blob/main/.node-version#L1)                   |
 | npm                                                         | `engines.npm` value in [package.json](https://github.com/haru52/base_template/blob/main/package.json) |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.8                                                                                                |
-| [Vale CLI](https://vale.sh/)                                | ^2.21.3                                                                                               |
-| [yamllint](https://yamllint.readthedocs.io/)                | ^1.28.0                                                                                               |
+| [Vale CLI](https://vale.sh/)                                | ^2.22.0                                                                                               |
+| [yamllint](https://yamllint.readthedocs.io/)                | ^1.29.0                                                                                               |
 | [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.9.0 <1.0.0                                                                                        |
 | [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](https://github.com/haru52/base_template/blob/main/.tool-versions)                    |
 
