@@ -1,3 +1,12 @@
+## [7.6.0](https://github.com/haru52/base_template/compare/v7.5.0...v7.6.0) (2023-01-18)
+
+
+### Features
+
+* **build:** upgrade npm dependencies ([530515c](https://github.com/haru52/base_template/commit/530515c9af34aba770b809bd8d879f70debacd7f))
+* **build:** upgrade npm version ([a91a086](https://github.com/haru52/base_template/commit/a91a086a20af712511f99888209eb53d0a1c65e9))
+* **docs:** update Contributing Guideline ([d40d57f](https://github.com/haru52/base_template/commit/d40d57f7b94bfbd4f9b29120125fbb581a36070e))
+
 ## [7.5.0](https://github.com/haru52/base_template/compare/v7.4.0...v7.5.0) (2023-01-13)
 
 
