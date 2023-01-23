@@ -1,3 +1,10 @@
+## [7.7.0](https://github.com/haru52/base_template/compare/v7.6.0...v7.7.0) (2023-01-23)
+
+
+### Features
+
+* **docs:** update Contributing Guideline ([be13eea](https://github.com/haru52/base_template/commit/be13eea5076ddbc012d983ae2ccacc0198dfa06f))
+
 ## [7.6.0](https://github.com/haru52/base_template/compare/v7.5.0...v7.6.0) (2023-01-18)
 
 
