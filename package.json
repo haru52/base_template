@@ -41,7 +41,7 @@
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",
     "@commitlint/cz-commitlint": "^17.4.2",
-    "@secretlint/secretlint-rule-preset-recommend": "^6.2.0",
+    "@secretlint/secretlint-rule-preset-recommend": "^6.2.3",
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.3.0",
