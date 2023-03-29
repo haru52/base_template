@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haru52/base_template.git"
+    "url": "https://github.com/haru52/base_template.git"
   },
   "keywords": [
     "template"
