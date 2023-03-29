@@ -26,7 +26,8 @@ Nothing to do!
 
 1. Open this repo page on GitHub
 2. Click `Use this template` button
-3. Now you are ready to write code in a comfortable environment 🎉
+3. Edit the repo files you've just created according to your project
+4. Now you are ready to write code in a comfortable environment 🎉
 
 ## Update
 
