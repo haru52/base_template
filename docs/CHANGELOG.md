@@ -1,3 +1,11 @@
+## [7.8.0](https://github.com/haru52/base_template/compare/v7.7.0...v7.8.0) (2023-03-29)
+
+
+### Features
+
+* **chore:** remove `git+` prefix from repository.url of package.json ([6f7a36b](https://github.com/haru52/base_template/commit/6f7a36b9baab75f081d2cd62c6d320cae4e6d390))
+* **docs:** update Usage description of README.md ([4cc2fdc](https://github.com/haru52/base_template/commit/4cc2fdcb3fa26cc0eb0a6dae49bdd05d4fde07db))
+
 ## [7.7.0](https://github.com/haru52/base_template/compare/v7.6.0...v7.7.0) (2023-01-23)
 
 
