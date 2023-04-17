@@ -39,7 +39,7 @@
   "homepage": "https://github.com/haru52/base_template#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
+    "@commitlint/config-conventional": "^17.6.1",
     "@commitlint/cz-commitlint": "^17.5.0",
     "@secretlint/secretlint-rule-preset-recommend": "^6.2.3",
     "@semantic-release/changelog": "^6.0.3",
