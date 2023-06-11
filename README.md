@@ -1,3 +1,4 @@
+<!-- vale write-good.E-Prime = NO -->
 # Base Template Repository
 
 [![Test](https://github.com/haru52/base_template/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template/actions/workflows/test.yml)
@@ -72,7 +73,7 @@ Nothing.
 
 [![Security overview](images/security_overview.png)](https://github.com/haru52/base_template/security)
 
-Why `Code scannig alerts` feature isn't enabled? Because this template has no code to scan! Of course you can set up this feature according to your project.
+Why `Private vulnerability reporting` and `Code scannig alerts` features aren't enabled? Because the former is a beta feature and this template has no code to scan! Of course you can set up these according to your project.
 
 ### Troubleshooting
 
