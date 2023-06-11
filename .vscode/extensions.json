@@ -1,10 +1,10 @@
 {
   "recommendations": [
     "arahata.linter-actionlint",
+    "chrischinchilla.vale-vscode",
     "christian-kohler.npm-intellisense",
     "DavidAnson.vscode-markdownlint",
     "EditorConfig.EditorConfig",
-    "errata-ai.vale-server",
     "esbenp.prettier-vscode",
     "ms-vscode.makefile-tools",
     "RomanPeshkov.vscode-text-tables",
