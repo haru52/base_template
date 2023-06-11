@@ -1,3 +1,14 @@
+## [7.9.0](https://github.com/haru52/base_template/compare/v7.8.0...v7.9.0) (2023-06-11)
+
+
+### Features
+
+* **build:** upgrade npm packages ([0a44e85](https://github.com/haru52/base_template/commit/0a44e8514e5b03ba9bd14b2086357fa9ee4ee5e0))
+* **chore:** update Vale VS Code extension ([cd738f5](https://github.com/haru52/base_template/commit/cd738f5288a222261d486a00ef67333a3790a5af))
+* **chore:** upgrade actionlint ([83c5fbc](https://github.com/haru52/base_template/commit/83c5fbc894614e17c7c367e0f25a1d39d47ff260))
+* **docs:** update Contributing Guideline ([5709393](https://github.com/haru52/base_template/commit/57093937b7952c8f08c0747318cfef6017725d5e))
+* **docs:** update README ([c395b20](https://github.com/haru52/base_template/commit/c395b2025a4faad0482d7fca120117a68485a572))
+
 ## [7.8.0](https://github.com/haru52/base_template/compare/v7.7.0...v7.8.0) (2023-03-29)
 
 
