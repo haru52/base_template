@@ -1,3 +1,10 @@
+## [7.10.0](https://github.com/haru52/base_template/compare/v7.9.0...v7.10.0) (2023-06-15)
+
+
+### Features
+
+* **build:** upgrade Node.js and npm versions ([94c9fe2](https://github.com/haru52/base_template/commit/94c9fe25f79ce6ad243c292e776e682896b6e0b0))
+
 ## [7.9.0](https://github.com/haru52/base_template/compare/v7.8.0...v7.9.0) (2023-06-11)
 
 
