@@ -1,3 +1,10 @@
+## [7.11.0](https://github.com/haru52/base_template/compare/v7.10.0...v7.11.0) (2023-08-03)
+
+
+### Features
+
+* **chore:** update Husky files ([b6ca25c](https://github.com/haru52/base_template/commit/b6ca25cb6c3e7f325cee5e14bee7a2ce2429f2fe))
+
 ## [7.10.0](https://github.com/haru52/base_template/compare/v7.9.0...v7.10.0) (2023-06-15)
 
 
