@@ -92,6 +92,11 @@ If this solution doesn't resolve your problem, please [open an issue](https://gi
 
 Please use [Base Template CLI][base-template-cli].
 
+### Languages
+
+- English (this repo. original)
+- [日本語](https://github.com/haru52/base_template_ja#readme)
+
 ## Versioning policy
 
 [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
@@ -99,11 +104,6 @@ Please use [Base Template CLI][base-template-cli].
 ## License
 
 [WTFPL](LICENSE)
-
-## Languages
-
-- English (this repo. original)
-- [日本語](https://github.com/haru52/base_template_ja#readme)
 
 ## Contributing
 
