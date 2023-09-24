@@ -1,3 +1,11 @@
+## [7.12.0](https://github.com/haru52/base_template/compare/v7.11.0...v7.12.0) (2023-09-24)
+
+
+### Features
+
+* **chore:** update npm run-scripts for Yarn ([40c4d19](https://github.com/haru52/base_template/commit/40c4d19f39a9a8f4e5b821dfb07870cabcfdb2cf))
+* **docs:** update README.md ([89018ab](https://github.com/haru52/base_template/commit/89018aba6c9d21e0f50b60c79229b70a2e981617))
+
 ## [7.11.0](https://github.com/haru52/base_template/compare/v7.10.0...v7.11.0) (2023-08-03)
 
 
