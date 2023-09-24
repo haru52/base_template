@@ -9,11 +9,11 @@
   },
   "main": "index.js",
   "scripts": {
-    "lint": "run-s --continue-on-error lint:*",
+    "lint": "run-s --continue-on-error 'lint:*'",
     "lint:credentials": "[ \"$CI\" = 'true' ] || secretlint \"**/*\"",
     "lint:md": "markdownlint . \".?*/**/*.{md,markdown}\"",
     "lint:prettier": "prettier --check .",
-    "format": "run-s --continue-on-error format:*",
+    "format": "run-s --continue-on-error 'format:*'",
     "format:md": "npm run lint:md -- --fix",
     "format:prettier": "prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1",
