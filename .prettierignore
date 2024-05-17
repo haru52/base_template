@@ -5,6 +5,3 @@
 # Use yamllint instead of Prettier
 *.yml
 *.yaml
-
-# 3rd party code
-/.github/styles/
