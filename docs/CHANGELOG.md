@@ -1,3 +1,16 @@
+## [8.0.0](https://github.com/haru52/base_template/compare/v7.15.0...v8.0.0) (2024-05-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** remove ShellCheck lint
+
+### Features
+
+* **chore:** add .secretlintignore ([b8433fa](https://github.com/haru52/base_template/commit/b8433fadc6e55320587be2123169de5f48fa5389))
+* **chore:** delete unnecessary specification in .prettierignore ([d43a1f8](https://github.com/haru52/base_template/commit/d43a1f800698563538c2adcfc1bc3c4544b87902))
+* **chore:** remove ShellCheck lint ([3ae81e0](https://github.com/haru52/base_template/commit/3ae81e07645a53870169514b5039f6a429967df6))
+
 ## [7.15.0](https://github.com/haru52/base_template/compare/v7.14.0...v7.15.0) (2024-05-17)
 
 
