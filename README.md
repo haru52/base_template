@@ -45,22 +45,22 @@ Nothing.
 | Category                      | Tool                                                                                  |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
 | IDE/editor configuration      | [EditorConfig](https://editorconfig.org/)                                             |
-| .gitignore management         | [gibo](https://github.com/simonwhitaker/gibo#readme)                                  |
+| .gitignore management         | [gibo](https://github.com/simonwhitaker/gibo)                                         |
 | Git hook                      | [Husky](https://typicode.github.io/husky)                                             |
 | Git commit I/F                | [Commitizen](https://commitizen.github.io/cz-cli/)                                    |
 | CI/CD                         | [GitHub Actions](https://github.com/features/actions)                                 |
-| Code review                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                            |
+| Code review                   | [reviewdog](https://github.com/reviewdog/reviewdog)                                   |
 | Release                       | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)             |
 | Dependency update             | [Dependabot](https://docs.github.com/en/code-security/dependabot)                     |
-| Lint: Git staged              | [lint-staged](https://github.com/okonet/lint-staged#readme)                           |
+| Lint: Git staged              | [lint-staged](https://github.com/okonet/lint-staged)                                  |
 | Lint: Git commit message      | [commitlint](https://commitlint.js.org/)                                              |
-| Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint#readme)                         |
-| Lint: Markdown                | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme)          |
+| Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint)                                |
+| Lint: Markdown                | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)                 |
 | Lint: text (prose)            | [Vale](https://vale.sh/)                                                              |
 | Lint: YAML                    | [yamllint](https://yamllint.readthedocs.io/)                                          |
-| Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                           |
+| Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck)                                  |
 | Lint: JSON, etc.              | [Prettier](https://prettier.io/)                                                      |
-| Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint#readme)                              |
+| Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint)                                     |
 | Lint: GitHub PR title         | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |
 
 <!-- vale Microsoft.Headings = NO -->
@@ -95,7 +95,7 @@ Please use [Base Template CLI][base-template-cli].
 ### Languages
 
 - English (this repo. original)
-- [日本語](https://github.com/haru52/base_template_ja#readme)
+- [日本語](https://github.com/haru52/base_template_ja)
 
 ## Versioning policy
 
@@ -119,4 +119,4 @@ Please use [Base Template CLI][base-template-cli].
 
 [haru](https://haru52.com/)
 
-[base-template-cli]: https://github.com/haru52/base_template_cli#readme
+[base-template-cli]: https://github.com/haru52/base_template_cli
