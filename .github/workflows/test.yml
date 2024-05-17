@@ -43,10 +43,6 @@ jobs:
         uses: karancode/yamllint-github-action@v2.1.1
         with:
           yamllint_strict: true
-      - name: "Lint: shell script"
-        uses: ludeeus/action-shellcheck@2.0.0
-        with:
-          ignore_paths: .husky/_ node_modules
       - name: "Lint: GitHub Actions workflow"
         # yamllint disable rule:line-length
         run: |

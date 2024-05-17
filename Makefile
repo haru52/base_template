@@ -1,10 +1,10 @@
-.PHONY: dev-install lint lint-npm lint-text lint-yml lint-sh lint-action update-gi
+.PHONY: dev-install lint lint-npm lint-text lint-yml lint-action update-gi
 
 dev-install:
 	npm ci
 	vale sync
 
-lint: lint-npm lint-text lint-yml lint-sh lint-action
+lint: lint-npm lint-text lint-yml lint-action
 
 lint-npm:
 	npm run lint
@@ -14,9 +14,6 @@ lint-text:
 
 lint-yml:
 	yamllint --strict .
-
-lint-sh:
-	shellcheck .husky/commit-msg .husky/pre-commit
 
 lint-action:
 	actionlint

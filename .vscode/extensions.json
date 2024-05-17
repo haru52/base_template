@@ -7,7 +7,6 @@
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "ms-vscode.makefile-tools",
-    "RomanPeshkov.vscode-text-tables",
-    "timonwong.shellcheck"
+    "RomanPeshkov.vscode-text-tables"
   ]
 }

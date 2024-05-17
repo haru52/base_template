@@ -58,7 +58,6 @@ Nothing.
 | Lint: Markdown                | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)                 |
 | Lint: text (prose)            | [Vale](https://vale.sh/)                                                              |
 | Lint: YAML                    | [yamllint](https://yamllint.readthedocs.io/)                                          |
-| Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck)                                  |
 | Lint: JSON, etc.              | [Prettier](https://prettier.io/)                                                      |
 | Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint)                                     |
 | Lint: GitHub PR title         | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |
