@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/haru52/base_template/issues"
   },
-  "homepage": "https://github.com/haru52/base_template#readme",
+  "homepage": "https://haru52.github.io/base_template/",
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
