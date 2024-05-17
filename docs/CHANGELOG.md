@@ -1,3 +1,11 @@
+## [7.15.0](https://github.com/haru52/base_template/compare/v7.14.0...v7.15.0) (2024-05-17)
+
+
+### Features
+
+* **chore:** update package.json ([4010d2b](https://github.com/haru52/base_template/commit/4010d2bc11e8f28246a32ad84a0893295be19e17))
+* **docs:** update documents ([319ae64](https://github.com/haru52/base_template/commit/319ae643074ddb01d2744f52de0e8ff53163f616))
+
 ## [7.14.0](https://github.com/haru52/base_template/compare/v7.13.0...v7.14.0) (2024-05-17)
 
 
