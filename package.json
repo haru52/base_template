@@ -38,21 +38,21 @@
   },
   "homepage": "https://github.com/haru52/base_template#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.6.5",
-    "@commitlint/config-conventional": "^17.6.5",
-    "@commitlint/cz-commitlint": "^17.5.0",
-    "@secretlint/secretlint-rule-preset-recommend": "^6.2.3",
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@commitlint/cz-commitlint": "^19.2.0",
+    "@secretlint/secretlint-rule-preset-recommend": "^8.2.4",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.3.0",
-    "conventional-changelog-conventionalcommits": "^6.0.0",
-    "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
-    "markdownlint-cli": ">=0.34.0 <1.0.0",
-    "npm-check-updates": "^16.10.12",
+    "conventional-changelog-conventionalcommits": "^8.0.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "markdownlint-cli": "^0.40.0",
+    "npm-check-updates": "^16.14.20",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.8.8",
-    "secretlint": "^6.2.3",
-    "semantic-release": "^21.0.5"
+    "prettier": "^3.2.5",
+    "secretlint": "^8.2.4",
+    "semantic-release": "^23.1.1"
   }
 }
