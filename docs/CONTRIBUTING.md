@@ -4,7 +4,7 @@
 
 | Tool                                                        | Version                                                                                               |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Node.js                                                     | [.tool-versions](https://github.com/haru52/base_template/blob/main/.tool-versions#L2)                 |
+| Node.js                                                     | [.tool-versions](https://github.com/haru52/base_template/blob/main/.tool-versions)                    |
 | npm                                                         | `engines.npm` value in [package.json](https://github.com/haru52/base_template/blob/main/package.json) |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^3.0.11                                                                                               |
 | [Vale CLI](https://vale.sh/)                                | ^3.4.2                                                                                                |
