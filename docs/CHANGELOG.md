@@ -1,3 +1,15 @@
+## [7.13.0](https://github.com/haru52/base_template/compare/v7.12.0...v7.13.0) (2024-05-17)
+
+
+### Features
+
+* **chore:** change to use .tool-versions for specifying Node.js version ([3e68cd1](https://github.com/haru52/base_template/commit/3e68cd11c7abfe2834a985f9b8097c6450cde504))
+* **chore:** change Vale styles directory structure ([86dd7e4](https://github.com/haru52/base_template/commit/86dd7e42624f23e0d79ea67836dd9ade473541ce))
+* **chore:** upgrade actionlint version from 1.6.24 to 1.7.0 ([e05d8e6](https://github.com/haru52/base_template/commit/e05d8e669f0f23b09f071b7276d05f6a3cb56438))
+* **chore:** upgrade Node.js and npm versions ([f65f0af](https://github.com/haru52/base_template/commit/f65f0afc14fc876bb4d54375a821958b97bdefc8))
+* **chore:** upgrade npm packages ([dd84394](https://github.com/haru52/base_template/commit/dd84394f6f72525581e22d946f200ff8add909cd))
+* **docs:** update Contributing Guideline ([189a395](https://github.com/haru52/base_template/commit/189a39536288c07b6180a4dc9111524856e3cc61))
+
 ## [7.12.0](https://github.com/haru52/base_template/compare/v7.11.0...v7.12.0) (2023-09-24)
 
 
