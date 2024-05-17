@@ -1,3 +1,10 @@
+## [7.14.0](https://github.com/haru52/base_template/compare/v7.13.0...v7.14.0) (2024-05-17)
+
+
+### Features
+
+* **docs:** update Contributing Guideline ([c53dc1a](https://github.com/haru52/base_template/commit/c53dc1a4ac4f1a718394563e04ec464065f2775d))
+
 ## [7.13.0](https://github.com/haru52/base_template/compare/v7.12.0...v7.13.0) (2024-05-17)
 
 
