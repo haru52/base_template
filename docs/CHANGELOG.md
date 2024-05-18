@@ -1,3 +1,10 @@
+## [8.1.0](https://github.com/haru52/base_template/compare/v8.0.0...v8.1.0) (2024-05-18)
+
+
+### Features
+
+* **chore:** update npm script ([72e0669](https://github.com/haru52/base_template/commit/72e0669341a8c855457fd8e3594a4b6c251b0df7))
+
 ## [8.0.0](https://github.com/haru52/base_template/compare/v7.15.0...v8.0.0) (2024-05-17)
 
 

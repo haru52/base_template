@@ -1,6 +1,6 @@
 {
   "name": "base-template",
-  "version": "8.0.0",
+  "version": "8.1.0",
   "description": "Fully automated template repository which provides full compliance with the community standards.",
   "private": true,
   "engines": {
