@@ -19,7 +19,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz",
     "cm": "npm run commit",
-    "prepare": "[ \"$CI\" = 'true' ] || husky install"
+    "prepare": "[ \"$CI\" = 'true' ] || husky"
   },
   "repository": {
     "type": "git",
