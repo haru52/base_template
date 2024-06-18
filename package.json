@@ -51,7 +51,7 @@
     "markdownlint-cli": "^0.41.0",
     "npm-check-updates": "^16.14.20",
     "npm-run-all": "^4.1.5",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.2",
     "secretlint": "^8.2.4",
     "semantic-release": "^24.0.0"
   }
