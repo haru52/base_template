@@ -1,3 +1,20 @@
+## [9.0.0](https://github.com/haru52/base_template/compare/v8.1.0...v9.0.0) (2025-10-19)
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** update recommended VS Code extensions
+
+### Features
+
+* **chore:** update .gitignore ([c88c8b0](https://github.com/haru52/base_template/commit/c88c8b0c7543e9f7ea80771f6390a80cc2092c07))
+* **chore:** update .prettierignore ([728d0f8](https://github.com/haru52/base_template/commit/728d0f89b5b8a6ae948ca6312e9b3c03fd83f1d8))
+* **chore:** update .tool-versions ([868cc22](https://github.com/haru52/base_template/commit/868cc224ea034b63e1ca8ff6a78b020605df7fe0))
+* **chore:** update engines of package.json ([29f4495](https://github.com/haru52/base_template/commit/29f4495480c320eaf4b19e03548a0e94da807126))
+* **chore:** update npm packages ([da9ce84](https://github.com/haru52/base_template/commit/da9ce8446518bfabd3fad1246163d6e760c04e77))
+* **chore:** update recommended VS Code extensions ([0c232d2](https://github.com/haru52/base_template/commit/0c232d2ec86fc9ce7248fc67f2eef041b1860284))
+* **docs:** update Contributing Guideline ([8232d5c](https://github.com/haru52/base_template/commit/8232d5c5cce4cdaf3e748229bd107d137e754550))
+* **docs:** update documents ([eafd85f](https://github.com/haru52/base_template/commit/eafd85fd1a4d445680eb2376307c7e520e7fba60))
+
 ## [8.1.0](https://github.com/haru52/base_template/compare/v8.0.0...v8.1.0) (2024-05-18)
 
 
