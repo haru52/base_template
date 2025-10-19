@@ -7,6 +7,6 @@
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "ms-vscode.makefile-tools",
-    "RomanPeshkov.vscode-text-tables"
+    "shuworks.vscode-table-formatter"
   ]
 }
