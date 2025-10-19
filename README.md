@@ -13,7 +13,7 @@
 
 This is a fully automated template repository. You can use, extend and customize this template as you wish!
 
-This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community) and removes your pain to add boilerplates in the repo initialization phase ☺️
+This template provides full compliance with [GitHub Community Standards](https://github.com/haru52/base_template/community) and removes your pain to add the boilerplate in the repo initialization phase ☺️
 
 ## Requirements
 
@@ -42,7 +42,7 @@ Nothing.
 
 ### Tech stack
 
-| Category                      | Tool                                                                                  |
+|           Category            |                                         Tool                                          |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
 | IDE/editor configuration      | [EditorConfig](https://editorconfig.org/)                                             |
 | .gitignore management         | [gibo](https://github.com/simonwhitaker/gibo)                                         |

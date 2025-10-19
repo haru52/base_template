@@ -3,7 +3,7 @@
 
 ## Supported Versions
 
-| Version                                                           | Supported |
+|                              Version                              | Supported |
 | ----------------------------------------------------------------- | --------- |
 | [Latest](https://github.com/haru52/base_template/releases/latest) | ✅        |
 | Others                                                            | ❌        |

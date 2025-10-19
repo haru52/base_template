@@ -2,7 +2,7 @@
 
 ## Requirements
 
-| Tool                                              | Version                                                                                               |
+|                       Tool                        |                                                Version                                                |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Node.js                                           | [.tool-versions](https://github.com/haru52/base_template/blob/main/.tool-versions)                    |
 | npm                                               | `engines.npm` value in [package.json](https://github.com/haru52/base_template/blob/main/package.json) |
@@ -13,7 +13,7 @@
 
 ## Rules
 
-| Category               | Rule                                                                                                                                |
+|        Category        |                                                                Rule                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Git commit             | [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)                                                       |
 |                        | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional) |
