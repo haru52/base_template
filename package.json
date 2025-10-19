@@ -4,8 +4,8 @@
   "description": "Fully automated template repository which provides full compliance with the community standards.",
   "private": true,
   "engines": {
-    "node": "^20.13.1",
-    "npm": "^10.8.0"
+    "node": "^22.20.0",
+    "npm": "^11.6.2"
   },
   "main": "index.js",
   "scripts": {
